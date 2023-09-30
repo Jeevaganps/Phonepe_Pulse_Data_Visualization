@@ -59,6 +59,12 @@ andaman-&-nicobar-islands,2022,3,nicobars district,49550,131330400.94545083
 andaman-&-nicobar-islands,2022,4,north and middle andaman district,93297,241431284.3558103
 andaman-&-nicobar-islands,2022,4,south andaman district,1835592,3600887266.099448
 andaman-&-nicobar-islands,2022,4,nicobars district,58646,142355853.97352526
+andaman-&-nicobar-islands,2023,1,north and middle andaman district,152187,392080332.0
+andaman-&-nicobar-islands,2023,1,south andaman district,2030078,3867385426.0
+andaman-&-nicobar-islands,2023,1,nicobars district,94127,202062829.0
+andaman-&-nicobar-islands,2023,2,north and middle andaman district,181149,462414675.0
+andaman-&-nicobar-islands,2023,2,south andaman district,2417058,4297737197.0
+andaman-&-nicobar-islands,2023,2,nicobars district,109568,230192364.0
 andhra-pradesh,2018,1,east godavari district,943935,1235785515.5997267
 andhra-pradesh,2018,1,srikakulam district,458921,587778028.9183557
 andhra-pradesh,2018,1,spsr nellore district,531612,676643237.8069417
@@ -319,6 +325,32 @@ andhra-pradesh,2022,4,kurnool district,43524766,94667441029.08345
 andhra-pradesh,2022,4,chittoor district,70322534,136840859888.18155
 andhra-pradesh,2022,4,guntur district,70723763,146938735166.52365
 andhra-pradesh,2022,4,krishna district,76526667,157826011193.35443
+andhra-pradesh,2023,1,east godavari district,115196449,223454724672.0
+andhra-pradesh,2023,1,srikakulam district,42209999,86486032409.0
+andhra-pradesh,2023,1,spsr nellore district,71318689,143967164643.0
+andhra-pradesh,2023,1,vizianagaram district,38838861,76472384525.0
+andhra-pradesh,2023,1,visakhapatnam district,164358781,277211090180.0
+andhra-pradesh,2023,1,prakasam district,63671149,141672839638.0
+andhra-pradesh,2023,1,anantapur district,82127373,162287796625.0
+andhra-pradesh,2023,1,ysr district,59768512,140117633668.0
+andhra-pradesh,2023,1,west godavari district,79094558,165941144654.0
+andhra-pradesh,2023,1,kurnool district,72405172,149100361797.0
+andhra-pradesh,2023,1,chittoor district,120192355,218037027226.0
+andhra-pradesh,2023,1,guntur district,114246185,226244225817.0
+andhra-pradesh,2023,1,krishna district,122104381,238058890676.0
+andhra-pradesh,2023,2,east godavari district,131243375,245134717109.0
+andhra-pradesh,2023,2,srikakulam district,47633204,93082175904.0
+andhra-pradesh,2023,2,spsr nellore district,82056071,165181391414.0
+andhra-pradesh,2023,2,vizianagaram district,43625851,82671020353.0
+andhra-pradesh,2023,2,visakhapatnam district,184918179,303874597259.0
+andhra-pradesh,2023,2,prakasam district,73598725,158428689659.0
+andhra-pradesh,2023,2,anantapur district,91695174,180050369328.0
+andhra-pradesh,2023,2,ysr district,66809788,156231915019.0
+andhra-pradesh,2023,2,west godavari district,92533269,187699526244.0
+andhra-pradesh,2023,2,kurnool district,81475907,166991990104.0
+andhra-pradesh,2023,2,chittoor district,136283483,245550525910.0
+andhra-pradesh,2023,2,guntur district,132035450,254140764680.0
+andhra-pradesh,2023,2,krishna district,141748488,267001403933.0
 arunachal-pradesh,2018,1,lower dibang valley district,1356,1076236.814073793
 arunachal-pradesh,2018,1,lower subansiri district,1477,3650727.893614269
 arunachal-pradesh,2018,1,longding district,2321,4361531.578447229
@@ -815,6 +847,56 @@ arunachal-pradesh,2022,4,lohit district,276551,503661703.8315097
 arunachal-pradesh,2022,4,lepa rada district,51416,127294274.35791278
 arunachal-pradesh,2022,4,tawang district,155419,518332824.89263654
 arunachal-pradesh,2022,4,namsai district,188919,307955075.5201911
+arunachal-pradesh,2023,1,lower dibang valley district,256396,537713700.0
+arunachal-pradesh,2023,1,lower subansiri district,257899,585614438.0
+arunachal-pradesh,2023,1,longding district,107606,261124844.0
+arunachal-pradesh,2023,1,west siang district,320064,764188915.0
+arunachal-pradesh,2023,1,kamle district,40383,92585537.0
+arunachal-pradesh,2023,1,upper siang district,103335,268653642.0
+arunachal-pradesh,2023,1,tirap district,157071,368592354.0
+arunachal-pradesh,2023,1,papum pare district,3302746,5900429571.0
+arunachal-pradesh,2023,1,kurung kumey district,29127,97772110.0
+arunachal-pradesh,2023,1,anjaw district,47386,125631329.0
+arunachal-pradesh,2023,1,siang district,80741,201397801.0
+arunachal-pradesh,2023,1,lower siang district,95379,206156352.0
+arunachal-pradesh,2023,1,kra daadi district,39986,133651279.0
+arunachal-pradesh,2023,1,changlang district,494506,1101499481.0
+arunachal-pradesh,2023,1,pakke kessang district,29274,53298027.0
+arunachal-pradesh,2023,1,dibang valley district,6327,28921318.0
+arunachal-pradesh,2023,1,west kameng district,662521,1414404520.0
+arunachal-pradesh,2023,1,shi yomi district,6633,38151814.0
+arunachal-pradesh,2023,1,east siang district,535198,990989057.0
+arunachal-pradesh,2023,1,upper subansiri district,179629,533663642.0
+arunachal-pradesh,2023,1,east kameng district,150931,375398867.0
+arunachal-pradesh,2023,1,lohit district,483285,870836418.0
+arunachal-pradesh,2023,1,lepa rada district,91748,200811427.0
+arunachal-pradesh,2023,1,tawang district,239151,724541898.0
+arunachal-pradesh,2023,1,namsai district,325503,518550113.0
+arunachal-pradesh,2023,2,lower dibang valley district,320847,641502543.0
+arunachal-pradesh,2023,2,lower subansiri district,341107,689315626.0
+arunachal-pradesh,2023,2,longding district,130522,285288333.0
+arunachal-pradesh,2023,2,west siang district,450143,970914462.0
+arunachal-pradesh,2023,2,kamle district,55865,106363865.0
+arunachal-pradesh,2023,2,upper siang district,128805,301652672.0
+arunachal-pradesh,2023,2,tirap district,200783,446804515.0
+arunachal-pradesh,2023,2,papum pare district,4245307,7148674913.0
+arunachal-pradesh,2023,2,kurung kumey district,31722,97669815.0
+arunachal-pradesh,2023,2,anjaw district,56827,151922212.0
+arunachal-pradesh,2023,2,siang district,105020,227425026.0
+arunachal-pradesh,2023,2,lower siang district,111333,218937621.0
+arunachal-pradesh,2023,2,kra daadi district,47120,134813823.0
+arunachal-pradesh,2023,2,changlang district,615184,1260077796.0
+arunachal-pradesh,2023,2,pakke kessang district,34356,58620893.0
+arunachal-pradesh,2023,2,dibang valley district,8132,39137344.0
+arunachal-pradesh,2023,2,west kameng district,870033,1803248166.0
+arunachal-pradesh,2023,2,shi yomi district,10945,63767934.0
+arunachal-pradesh,2023,2,east siang district,689624,1177576754.0
+arunachal-pradesh,2023,2,upper subansiri district,246349,680733513.0
+arunachal-pradesh,2023,2,east kameng district,200350,450768238.0
+arunachal-pradesh,2023,2,lohit district,592587,984621672.0
+arunachal-pradesh,2023,2,lepa rada district,118411,242626097.0
+arunachal-pradesh,2023,2,tawang district,339605,1003663723.0
+arunachal-pradesh,2023,2,namsai district,409511,619571108.0
 assam,2018,1,tinsukia district,41237,45886201.028968215
 assam,2018,1,lakhimpur district,24946,17798094.851239465
 assam,2018,1,kamrup district,47859,41868129.255927615
@@ -1475,6 +1557,72 @@ assam,2022,4,barpeta district,5914147,12025232756.80872
 assam,2022,4,goalpara district,2471469,5401152298.290413
 assam,2022,4,biswanath district,770207,1431848172.336092
 assam,2022,4,jorhat district,2231248,3528373897.52103
+assam,2023,1,tinsukia district,3283559,6117150816.0
+assam,2023,1,lakhimpur district,2476912,4343543762.0
+assam,2023,1,kamrup district,4930296,9371100434.0
+assam,2023,1,kokrajhar district,2355923,4909355126.0
+assam,2023,1,karbi anglong district,1520698,3214908329.0
+assam,2023,1,sivasagar district,1570623,2672941443.0
+assam,2023,1,dibrugarh district,3760225,5608974753.0
+assam,2023,1,south salmara mancachar district,1508825,4356922804.0
+assam,2023,1,nagaon district,6685799,14229904732.0
+assam,2023,1,dhubri district,4783556,10188898480.0
+assam,2023,1,golaghat district,2224582,4026121612.0
+assam,2023,1,udalguri district,1639335,2999218033.0
+assam,2023,1,majuli district,252765,402870909.0
+assam,2023,1,sonitpur district,5085643,8045533285.0
+assam,2023,1,hojai district,2133438,4081301237.0
+assam,2023,1,marigaon district,3358524,7072156482.0
+assam,2023,1,chirang district,1227227,2669479936.0
+assam,2023,1,cachar district,5638260,10760387455.0
+assam,2023,1,nalbari district,1785728,3606569741.0
+assam,2023,1,west karbi anglong district,258669,468615052.0
+assam,2023,1,dhemaji district,1628726,3039266504.0
+assam,2023,1,karimganj district,3129397,7345868143.0
+assam,2023,1,bongaigaon district,3402608,7240422273.0
+assam,2023,1,dima hasao district,567000,1214015609.0
+assam,2023,1,baksa district,2190401,4845776221.0
+assam,2023,1,charaideo district,853791,1628619134.0
+assam,2023,1,darrang district,3615988,7158735706.0
+assam,2023,1,kamrup metropolitan district,22957420,32177527551.0
+assam,2023,1,hailakandi district,2046225,4019608832.0
+assam,2023,1,barpeta district,8607360,18729528128.0
+assam,2023,1,goalpara district,4337423,9833497403.0
+assam,2023,1,biswanath district,1384589,2345159408.0
+assam,2023,1,jorhat district,2559123,3630187754.0
+assam,2023,2,tinsukia district,3851912,6507525643.0
+assam,2023,2,lakhimpur district,3057549,4876785629.0
+assam,2023,2,kamrup district,6019583,10319507492.0
+assam,2023,2,kokrajhar district,2949625,5758367366.0
+assam,2023,2,karbi anglong district,1815628,3451464394.0
+assam,2023,2,sivasagar district,1832171,2802402072.0
+assam,2023,2,dibrugarh district,4515459,6339612450.0
+assam,2023,2,south salmara mancachar district,1921183,4781401468.0
+assam,2023,2,nagaon district,8290774,15933295314.0
+assam,2023,2,dhubri district,5998987,11652162342.0
+assam,2023,2,golaghat district,2685300,4365734962.0
+assam,2023,2,udalguri district,2017515,3369067037.0
+assam,2023,2,majuli district,298852,464620442.0
+assam,2023,2,sonitpur district,6079471,9155763527.0
+assam,2023,2,hojai district,2650538,4575809166.0
+assam,2023,2,marigaon district,4122001,7831746623.0
+assam,2023,2,chirang district,1562965,3117726249.0
+assam,2023,2,cachar district,6593914,11304410610.0
+assam,2023,2,nalbari district,2194760,4095366006.0
+assam,2023,2,west karbi anglong district,321867,543268673.0
+assam,2023,2,dhemaji district,1933305,3385291207.0
+assam,2023,2,karimganj district,3708403,7737482765.0
+assam,2023,2,bongaigaon district,4272392,8015507557.0
+assam,2023,2,dima hasao district,723783,1412966285.0
+assam,2023,2,baksa district,2577080,5238071690.0
+assam,2023,2,charaideo district,1046404,1748795643.0
+assam,2023,2,darrang district,4517036,7943501699.0
+assam,2023,2,kamrup metropolitan district,27633429,36066525702.0
+assam,2023,2,hailakandi district,2438411,4219916209.0
+assam,2023,2,barpeta district,10582441,20577968723.0
+assam,2023,2,goalpara district,5347770,10755879893.0
+assam,2023,2,biswanath district,1733270,2748393436.0
+assam,2023,2,jorhat district,2997175,4014450509.0
 bihar,2018,1,madhepura district,79822,85073945.80231695
 bihar,2018,1,purnia district,132262,139947209.0171691
 bihar,2018,1,nalanda district,208901,190613485.9647957
@@ -2235,6 +2383,82 @@ bihar,2022,4,banka district,4955109,8935956598.64038
 bihar,2022,4,purbi champaran district,19272446,36872763823.28027
 bihar,2022,4,sheohar district,1532102,3282461020.338641
 bihar,2022,4,bhojpur district,5892545,12508501978.733713
+bihar,2023,1,madhepura district,9325422,18403681915.0
+bihar,2023,1,purnia district,18584968,34053061521.0
+bihar,2023,1,nalanda district,12150263,24530855115.0
+bihar,2023,1,buxar district,5848393,13034232514.0
+bihar,2023,1,darbhanga district,19794010,37292632745.0
+bihar,2023,1,nawada district,8765279,18377265005.0
+bihar,2023,1,jamui district,7623375,14398401252.0
+bihar,2023,1,sheikhpura district,2064752,4530096302.0
+bihar,2023,1,siwan district,17788864,33505364500.0
+bihar,2023,1,muzaffarpur district,28886927,56400533688.0
+bihar,2023,1,patna district,69820541,112520666995.0
+bihar,2023,1,jehanabad district,4742795,8944289704.0
+bihar,2023,1,rohtas district,14339901,31870801749.0
+bihar,2023,1,begusarai district,13593673,24643026366.0
+bihar,2023,1,supaul district,11188599,21298062049.0
+bihar,2023,1,sitamarhi district,13145826,26714708651.0
+bihar,2023,1,saran district,18242895,34998196534.0
+bihar,2023,1,arwal district,2502105,5071956116.0
+bihar,2023,1,vaishali district,17216468,33543187131.0
+bihar,2023,1,pashchim champaran district,24252692,44729618090.0
+bihar,2023,1,gopalganj district,14225694,25963151872.0
+bihar,2023,1,lakhisarai district,3917986,7603564543.0
+bihar,2023,1,aurangabad district,12784275,25828345171.0
+bihar,2023,1,kaimur bhabua district,5540181,12355271722.0
+bihar,2023,1,araria district,13966242,26702786410.0
+bihar,2023,1,munger district,5690436,10205485142.0
+bihar,2023,1,katihar district,17506326,31136452032.0
+bihar,2023,1,khagaria district,6964087,13942090816.0
+bihar,2023,1,saharsa district,10201965,19055033369.0
+bihar,2023,1,bhagalpur district,16078316,28839269423.0
+bihar,2023,1,madhubani district,20101659,38852004241.0
+bihar,2023,1,kishanganj district,8133638,18605794600.0
+bihar,2023,1,gaya district,23452237,47501890223.0
+bihar,2023,1,samastipur district,18568228,35295604286.0
+bihar,2023,1,banka district,5555850,10066290297.0
+bihar,2023,1,purbi champaran district,32313824,60944611798.0
+bihar,2023,1,sheohar district,2578708,5284271246.0
+bihar,2023,1,bhojpur district,10373795,22234404811.0
+bihar,2023,2,madhepura district,11542899,23663784354.0
+bihar,2023,2,purnia district,23962134,43347802163.0
+bihar,2023,2,nalanda district,13452507,26580755603.0
+bihar,2023,2,buxar district,7375631,15191543693.0
+bihar,2023,2,darbhanga district,24714109,44529831252.0
+bihar,2023,2,nawada district,10712609,21162477632.0
+bihar,2023,2,jamui district,9400437,16599848901.0
+bihar,2023,2,sheikhpura district,2525600,5249484763.0
+bihar,2023,2,siwan district,23055961,41236183249.0
+bihar,2023,2,muzaffarpur district,36854628,66973720424.0
+bihar,2023,2,patna district,86311917,130723225180.0
+bihar,2023,2,jehanabad district,5620623,10095388597.0
+bihar,2023,2,rohtas district,16205894,34071204262.0
+bihar,2023,2,begusarai district,17168596,29251611911.0
+bihar,2023,2,supaul district,13507753,25849203741.0
+bihar,2023,2,sitamarhi district,16838730,31360327330.0
+bihar,2023,2,saran district,25029090,44329380967.0
+bihar,2023,2,arwal district,3095085,5725798581.0
+bihar,2023,2,vaishali district,21976754,39976290621.0
+bihar,2023,2,pashchim champaran district,29419863,49527742510.0
+bihar,2023,2,gopalganj district,18186585,31242743268.0
+bihar,2023,2,lakhisarai district,4808552,8868911131.0
+bihar,2023,2,aurangabad district,15833640,28881245867.0
+bihar,2023,2,kaimur bhabua district,6954614,14209837446.0
+bihar,2023,2,araria district,17405238,33009288137.0
+bihar,2023,2,munger district,7081033,12235379574.0
+bihar,2023,2,katihar district,21366056,38141384302.0
+bihar,2023,2,khagaria district,8710333,17833659050.0
+bihar,2023,2,saharsa district,12642702,23270182042.0
+bihar,2023,2,bhagalpur district,20048497,34770992914.0
+bihar,2023,2,madhubani district,25118136,46338955995.0
+bihar,2023,2,kishanganj district,9784026,20794017657.0
+bihar,2023,2,gaya district,28494001,52818315995.0
+bihar,2023,2,samastipur district,24164490,42663933231.0
+bihar,2023,2,banka district,6994793,12279532656.0
+bihar,2023,2,purbi champaran district,41126238,71129044926.0
+bihar,2023,2,sheohar district,3284512,6245734376.0
+bihar,2023,2,bhojpur district,13158828,25867981089.0
 chandigarh,2018,1,chandigarh district,381895,613435420.8676233
 chandigarh,2018,2,chandigarh district,479084,961223261.74473
 chandigarh,2018,3,chandigarh district,616936,1369354447.5343118
@@ -2255,6 +2479,8 @@ chandigarh,2022,1,chandigarh district,8600491,15174991549.84
 chandigarh,2022,2,chandigarh district,10772489,17283500158.371002
 chandigarh,2022,3,chandigarh district,13478173,20559757737.405857
 chandigarh,2022,4,chandigarh district,17904840,27879754566.939415
+chandigarh,2023,1,chandigarh district,9815605,12824894394.0
+chandigarh,2023,2,chandigarh district,11553687,14414408750.0
 chhattisgarh,2018,1,dhamtari district,40907,36969406.65169988
 chhattisgarh,2018,1,korba district,93345,99366683.13643219
 chhattisgarh,2018,1,surajpur district,35573,34242977.1533452
@@ -2795,6 +3021,60 @@ chhattisgarh,2022,4,bemetara district,1978543,3193058083.5620394
 chhattisgarh,2022,4,bastar district,3447914,5260070136.804683
 chhattisgarh,2022,4,kondagaon district,1426629,2220740205.564878
 chhattisgarh,2022,4,mahasamund district,3890208,6294827909.790524
+chhattisgarh,2023,1,dhamtari district,3656892,6000061935.0
+chhattisgarh,2023,1,korba district,12843212,16488882083.0
+chhattisgarh,2023,1,surajpur district,4342391,5789576532.0
+chhattisgarh,2023,1,baloda bazar district,7197194,10652987448.0
+chhattisgarh,2023,1,sukma district,1202965,2441450038.0
+chhattisgarh,2023,1,raigarh district,14309929,20128762185.0
+chhattisgarh,2023,1,janjgir champa district,11935407,16206439751.0
+chhattisgarh,2023,1,jashpur district,3899006,6229114336.0
+chhattisgarh,2023,1,balod district,3402491,5149710449.0
+chhattisgarh,2023,1,kabirdham district,4236786,5687558670.0
+chhattisgarh,2023,1,surguja district,7940333,10560053086.0
+chhattisgarh,2023,1,dantewada district,1928165,3167599784.0
+chhattisgarh,2023,1,gariyaband district,2585427,3945750314.0
+chhattisgarh,2023,1,durg district,23859545,31147636873.0
+chhattisgarh,2023,1,rajnandgaon district,8307564,12366125060.0
+chhattisgarh,2023,1,raipur district,45622190,62999064541.0
+chhattisgarh,2023,1,narayanpur district,740408,1230653608.0
+chhattisgarh,2023,1,kanker district,3794435,6343820186.0
+chhattisgarh,2023,1,korea district,4120545,5549483901.0
+chhattisgarh,2023,1,mungeli district,2911314,4306392412.0
+chhattisgarh,2023,1,bilaspur district,22515986,28109717724.0
+chhattisgarh,2023,1,balrampur district,3528512,5802847604.0
+chhattisgarh,2023,1,bijapur district,1568967,2619108818.0
+chhattisgarh,2023,1,bemetara district,3343552,5123208070.0
+chhattisgarh,2023,1,bastar district,5886758,8655486341.0
+chhattisgarh,2023,1,kondagaon district,2469881,3799080869.0
+chhattisgarh,2023,1,mahasamund district,6599102,10588363841.0
+chhattisgarh,2023,2,dhamtari district,4310978,6504926942.0
+chhattisgarh,2023,2,korba district,14707141,18016273425.0
+chhattisgarh,2023,2,surajpur district,5073961,6439054027.0
+chhattisgarh,2023,2,baloda bazar district,8570502,11581152240.0
+chhattisgarh,2023,2,sukma district,1448558,2826810551.0
+chhattisgarh,2023,2,raigarh district,16537898,21670817692.0
+chhattisgarh,2023,2,janjgir champa district,14164104,17840916543.0
+chhattisgarh,2023,2,jashpur district,4742040,7093957770.0
+chhattisgarh,2023,2,balod district,4013844,5648028582.0
+chhattisgarh,2023,2,kabirdham district,4977783,6192156276.0
+chhattisgarh,2023,2,surguja district,9320236,12083741021.0
+chhattisgarh,2023,2,dantewada district,2266424,3601912356.0
+chhattisgarh,2023,2,gariyaband district,2951233,4078176360.0
+chhattisgarh,2023,2,durg district,26918873,34354238161.0
+chhattisgarh,2023,2,rajnandgaon district,9678721,13738399065.0
+chhattisgarh,2023,2,raipur district,52620640,69883706700.0
+chhattisgarh,2023,2,narayanpur district,901454,1426973100.0
+chhattisgarh,2023,2,kanker district,4521013,7071816827.0
+chhattisgarh,2023,2,korea district,4808232,6110652430.0
+chhattisgarh,2023,2,mungeli district,3545182,4886384221.0
+chhattisgarh,2023,2,bilaspur district,26295348,31728128217.0
+chhattisgarh,2023,2,balrampur district,4209158,6478886396.0
+chhattisgarh,2023,2,bijapur district,1913141,3121723791.0
+chhattisgarh,2023,2,bemetara district,3965704,5755335210.0
+chhattisgarh,2023,2,bastar district,6971246,9625103589.0
+chhattisgarh,2023,2,kondagaon district,2886508,4253050551.0
+chhattisgarh,2023,2,mahasamund district,7611714,11144524711.0
 dadra-&-nagar-haveli-&-daman-&-diu,2018,1,diu district,5593,6434481.929188873
 dadra-&-nagar-haveli-&-daman-&-diu,2018,1,daman district,50218,63416803.35332493
 dadra-&-nagar-haveli-&-daman-&-diu,2018,1,dadra and nagar haveli district,92738,105807098.82670306
@@ -2855,6 +3135,12 @@ dadra-&-nagar-haveli-&-daman-&-diu,2022,3,dadra and nagar haveli district,399936
 dadra-&-nagar-haveli-&-daman-&-diu,2022,4,diu district,154870,296319509.67041874
 dadra-&-nagar-haveli-&-daman-&-diu,2022,4,daman district,2344860,2629286286.284037
 dadra-&-nagar-haveli-&-daman-&-diu,2022,4,dadra and nagar haveli district,4689855,5134034950.126673
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,diu district,239195,426544984.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,daman district,3864652,4064735362.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,1,dadra and nagar haveli district,7700138,8122810854.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,diu district,277405,511140210.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,daman district,4408947,4407940658.0
+dadra-&-nagar-haveli-&-daman-&-diu,2023,2,dadra and nagar haveli district,8670763,8831457320.0
 delhi,2018,1,south district,334361,597143870.4750924
 delhi,2018,1,central district,2997714,4312145216.274474
 delhi,2018,1,new delhi district,883737,1478916789.169149
@@ -3075,6 +3361,28 @@ delhi,2022,4,north east district,11345971,23377796053.16697
 delhi,2022,4,east district,23683133,33122093387.044395
 delhi,2022,4,north west district,19859098,35599171826.28781
 delhi,2022,4,north district,19393947,31932822870.2881
+delhi,2023,1,south district,32534127,37497668457.0
+delhi,2023,1,central district,49681285,81500812610.0
+delhi,2023,1,new delhi district,48280973,58799219994.0
+delhi,2023,1,west district,53494049,88637227473.0
+delhi,2023,1,south west district,31119622,45110662539.0
+delhi,2023,1,south east delhi district,56901581,72188090661.0
+delhi,2023,1,shahdara district,19779351,39855441084.0
+delhi,2023,1,north east district,19619286,37314879022.0
+delhi,2023,1,east district,30263080,39834690348.0
+delhi,2023,1,north west district,34149097,57664399598.0
+delhi,2023,1,north district,33930652,53000017794.0
+delhi,2023,2,south district,38797761,41499044092.0
+delhi,2023,2,central district,57622069,86092311109.0
+delhi,2023,2,new delhi district,57173491,64569798729.0
+delhi,2023,2,west district,62944946,95782240128.0
+delhi,2023,2,south west district,36917006,49688361980.0
+delhi,2023,2,south east delhi district,66237557,78214516249.0
+delhi,2023,2,shahdara district,23083531,41909976096.0
+delhi,2023,2,north east district,22434191,39076228438.0
+delhi,2023,2,east district,36042935,43552662240.0
+delhi,2023,2,north west district,40527597,63155058402.0
+delhi,2023,2,north district,40357914,58188318194.0
 goa,2018,1,north goa district,95114,187108291.98525044
 goa,2018,1,south goa district,65783,116748450.35783319
 goa,2018,2,north goa district,133429,290814882.3594384
@@ -3115,6 +3423,10 @@ goa,2022,3,north goa district,8310698,13076925808.314318
 goa,2022,3,south goa district,4877989,6497339467.392014
 goa,2022,4,north goa district,11455490,17268434371.99816
 goa,2022,4,south goa district,5737184,7656551999.340998
+goa,2023,1,north goa district,16251833,24505420924.0
+goa,2023,1,south goa district,7943237,10591544851.0
+goa,2023,2,north goa district,17849215,27042471683.0
+goa,2023,2,south goa district,8681375,11369735260.0
 gujarat,2018,1,anand district,166658,181858557.89906442
 gujarat,2018,1,jamnagar district,121341,166162325.33642912
 gujarat,2018,1,devbhumi dwarka district,30538,38615229.59304487
@@ -3775,6 +4087,72 @@ gujarat,2022,4,patan district,3819745,7472645579.49339
 gujarat,2022,4,kachchh district,9617702,17113433243.309341
 gujarat,2022,4,surendranagar district,2537495,5716407620.510841
 gujarat,2022,4,morbi district,3378672,7944369113.768206
+gujarat,2023,1,anand district,5397666,9009210736.0
+gujarat,2023,1,jamnagar district,4756337,7167434719.0
+gujarat,2023,1,devbhumi dwarka district,1415994,2752477571.0
+gujarat,2023,1,rajkot district,10331784,19918564828.0
+gujarat,2023,1,aravallis district,4030723,6867703665.0
+gujarat,2023,1,chhotaudepur district,1063601,1949399026.0
+gujarat,2023,1,botad district,2614974,4334114751.0
+gujarat,2023,1,bharuch district,17611455,23420620380.0
+gujarat,2023,1,bhavnagar district,5891467,12426320689.0
+gujarat,2023,1,junagadh district,2103076,4380773447.0
+gujarat,2023,1,mahesana district,11768050,21693083051.0
+gujarat,2023,1,the dangs district,525483,743925303.0
+gujarat,2023,1,kheda district,5309300,8871328725.0
+gujarat,2023,1,surat district,59319420,95572900783.0
+gujarat,2023,1,porbandar district,781192,2010358003.0
+gujarat,2023,1,gandhinagar district,19462874,28898357911.0
+gujarat,2023,1,panch mahals district,4382750,6885930879.0
+gujarat,2023,1,narmada district,1331119,2006640636.0
+gujarat,2023,1,gir somnath district,2525075,5400719200.0
+gujarat,2023,1,valsad district,15422170,21497483690.0
+gujarat,2023,1,mahisagar district,1662680,3003221233.0
+gujarat,2023,1,sabar kantha district,7019623,11873701987.0
+gujarat,2023,1,tapi district,2629964,4183517799.0
+gujarat,2023,1,vadodara district,25446746,33703262986.0
+gujarat,2023,1,banas kantha district,20363171,39328998688.0
+gujarat,2023,1,amreli district,2349744,4616129601.0
+gujarat,2023,1,ahmadabad district,88124113,144675922269.0
+gujarat,2023,1,dohad district,4195072,7548858403.0
+gujarat,2023,1,navsari district,4107219,6361291325.0
+gujarat,2023,1,patan district,6352036,11479571861.0
+gujarat,2023,1,kachchh district,15804575,26116703929.0
+gujarat,2023,1,surendranagar district,3921552,8632632976.0
+gujarat,2023,1,morbi district,4490321,10495027756.0
+gujarat,2023,2,anand district,5851772,9203602342.0
+gujarat,2023,2,jamnagar district,5521568,7701542445.0
+gujarat,2023,2,devbhumi dwarka district,1524055,2754024478.0
+gujarat,2023,2,rajkot district,11886801,21473977466.0
+gujarat,2023,2,aravallis district,4798591,7885461417.0
+gujarat,2023,2,chhotaudepur district,1244113,2137462845.0
+gujarat,2023,2,botad district,2813449,4652143736.0
+gujarat,2023,2,bharuch district,20492081,25552850416.0
+gujarat,2023,2,bhavnagar district,6951883,13318758008.0
+gujarat,2023,2,junagadh district,2403109,4751272420.0
+gujarat,2023,2,mahesana district,13635469,23684515815.0
+gujarat,2023,2,the dangs district,619051,870841121.0
+gujarat,2023,2,kheda district,6085143,9433647106.0
+gujarat,2023,2,surat district,68998170,102075692702.0
+gujarat,2023,2,porbandar district,883224,2116550620.0
+gujarat,2023,2,gandhinagar district,22421756,31572312133.0
+gujarat,2023,2,panch mahals district,5008744,7340222097.0
+gujarat,2023,2,narmada district,1550920,2170877095.0
+gujarat,2023,2,gir somnath district,2968910,6039493391.0
+gujarat,2023,2,valsad district,17817488,23874686294.0
+gujarat,2023,2,mahisagar district,1968493,3393183608.0
+gujarat,2023,2,sabar kantha district,8082316,13228245431.0
+gujarat,2023,2,tapi district,3071773,4542977182.0
+gujarat,2023,2,vadodara district,28126951,36036104419.0
+gujarat,2023,2,banas kantha district,23444277,42180609726.0
+gujarat,2023,2,amreli district,2635417,4820975988.0
+gujarat,2023,2,ahmadabad district,100889578,156288216607.0
+gujarat,2023,2,dohad district,4873367,8161119377.0
+gujarat,2023,2,navsari district,4720973,7128327894.0
+gujarat,2023,2,patan district,7357468,12694378137.0
+gujarat,2023,2,kachchh district,18170694,27688475605.0
+gujarat,2023,2,surendranagar district,4699987,9385361251.0
+gujarat,2023,2,morbi district,5404962,11249299353.0
 haryana,2018,1,yamunanagar district,102917,125333909.59597155
 haryana,2018,1,sonipat district,178766,279804665.74758285
 haryana,2018,1,jind district,117357,186842136.19643256
@@ -4215,6 +4593,50 @@ haryana,2022,4,gurugram district,92493335,107046551341.7809
 haryana,2022,4,kaithal district,2779368,7328533737.39424
 haryana,2022,4,kurukshetra district,5165029,10664712701.059044
 haryana,2022,4,jhajjar district,8653366,16785189538.5209
+haryana,2023,1,yamunanagar district,4918119,9171861157.0
+haryana,2023,1,sonipat district,14926351,27671143422.0
+haryana,2023,1,jind district,5251923,13385502174.0
+haryana,2023,1,rohtak district,9725029,20430910988.0
+haryana,2023,1,faridabad district,53175744,76414257465.0
+haryana,2023,1,mahendragarh district,9912656,20183169351.0
+haryana,2023,1,hisar district,13701000,30219366691.0
+haryana,2023,1,karnal district,9090175,18235777673.0
+haryana,2023,1,fatehabad district,3820064,9102850639.0
+haryana,2023,1,palwal district,18488944,29954221651.0
+haryana,2023,1,charkhi dadri district,2581032,6473350369.0
+haryana,2023,1,ambala district,5655447,9664464609.0
+haryana,2023,1,rewari district,19315925,31293744915.0
+haryana,2023,1,panchkula district,4529784,6696325946.0
+haryana,2023,1,bhiwani district,8488847,20481542376.0
+haryana,2023,1,sirsa district,6142496,13741899241.0
+haryana,2023,1,mewat district,19821886,34386439914.0
+haryana,2023,1,panipat district,10810722,20832156394.0
+haryana,2023,1,gurugram district,139674963,149429170153.0
+haryana,2023,1,kaithal district,3438425,8883282220.0
+haryana,2023,1,kurukshetra district,5631223,11448146780.0
+haryana,2023,1,jhajjar district,12217709,23051039608.0
+haryana,2023,2,yamunanagar district,5808079,9919078218.0
+haryana,2023,2,sonipat district,18352363,31280283056.0
+haryana,2023,2,jind district,6187437,15030128160.0
+haryana,2023,2,rohtak district,11834768,23293874429.0
+haryana,2023,2,faridabad district,62235387,82469498511.0
+haryana,2023,2,mahendragarh district,12061191,22742640627.0
+haryana,2023,2,hisar district,16085808,33933659480.0
+haryana,2023,2,karnal district,10807453,20061638056.0
+haryana,2023,2,fatehabad district,4424871,10133855573.0
+haryana,2023,2,palwal district,22095549,33459783079.0
+haryana,2023,2,charkhi dadri district,3105049,7557654917.0
+haryana,2023,2,ambala district,6675407,10715602407.0
+haryana,2023,2,rewari district,23333100,34976781377.0
+haryana,2023,2,panchkula district,5464299,7550273654.0
+haryana,2023,2,bhiwani district,10238046,24420606605.0
+haryana,2023,2,sirsa district,7134767,15394065489.0
+haryana,2023,2,mewat district,24567537,39427690839.0
+haryana,2023,2,panipat district,13037367,23049537864.0
+haryana,2023,2,gurugram district,168827725,167788722810.0
+haryana,2023,2,kaithal district,3922814,9724187583.0
+haryana,2023,2,kurukshetra district,6544160,12610485630.0
+haryana,2023,2,jhajjar district,14793013,26202080272.0
 himachal-pradesh,2018,1,solan district,118881,146873607.41695297
 himachal-pradesh,2018,1,sirmaur district,37721,43579534.40144637
 himachal-pradesh,2018,1,shimla district,54161,84375526.97610706
@@ -4455,6 +4877,30 @@ himachal-pradesh,2022,4,mandi district,1994054,3034367986.1615605
 himachal-pradesh,2022,4,lahul and spiti district,100747,199706125.5906673
 himachal-pradesh,2022,4,chamba district,831315,1292196671.856883
 himachal-pradesh,2022,4,kinnaur district,243986,496929228.7937612
+himachal-pradesh,2023,1,solan district,6697899,6853019754.0
+himachal-pradesh,2023,1,sirmaur district,2191815,2793519379.0
+himachal-pradesh,2023,1,shimla district,2868345,4482667951.0
+himachal-pradesh,2023,1,bilaspur district,985356,1578749319.0
+himachal-pradesh,2023,1,hamirpur district,1563054,2230316339.0
+himachal-pradesh,2023,1,una district,1664821,2572954200.0
+himachal-pradesh,2023,1,kangra district,4812761,7112476385.0
+himachal-pradesh,2023,1,kullu district,2582003,4254375692.0
+himachal-pradesh,2023,1,mandi district,2270344,3447411380.0
+himachal-pradesh,2023,1,lahul and spiti district,99085,162221537.0
+himachal-pradesh,2023,1,chamba district,1245900,1739970763.0
+himachal-pradesh,2023,1,kinnaur district,320343,513265035.0
+himachal-pradesh,2023,2,solan district,8225202,7869249175.0
+himachal-pradesh,2023,2,sirmaur district,2641707,3153309362.0
+himachal-pradesh,2023,2,shimla district,3935607,5853300872.0
+himachal-pradesh,2023,2,bilaspur district,1211407,1839856400.0
+himachal-pradesh,2023,2,hamirpur district,1880638,2572731185.0
+himachal-pradesh,2023,2,una district,2008731,2891172648.0
+himachal-pradesh,2023,2,kangra district,6314902,8889538215.0
+himachal-pradesh,2023,2,kullu district,3547410,6190891236.0
+himachal-pradesh,2023,2,mandi district,2832817,4073788943.0
+himachal-pradesh,2023,2,lahul and spiti district,290203,530456204.0
+himachal-pradesh,2023,2,chamba district,1664604,2251880400.0
+himachal-pradesh,2023,2,kinnaur district,508367,758889078.0
 jammu-&-kashmir,2018,1,muzaffarabad district,13,14559.803406151601
 jammu-&-kashmir,2018,1,doda district,4108,7065930.233463201
 jammu-&-kashmir,2018,1,samba district,14795,21534891.0416242
@@ -4895,6 +5341,50 @@ jammu-&-kashmir,2022,4,kulgam district,654424,837066487.4013662
 jammu-&-kashmir,2022,4,budgam district,1306982,1932170615.5444055
 jammu-&-kashmir,2022,4,anantnag district,1338553,1684090753.6075988
 jammu-&-kashmir,2022,4,kupwara district,1219778,1804597459.1902237
+jammu-&-kashmir,2023,1,muzaffarabad district,20128,51235460.0
+jammu-&-kashmir,2023,1,doda district,865832,963594006.0
+jammu-&-kashmir,2023,1,samba district,1784289,2881890615.0
+jammu-&-kashmir,2023,1,mirpur district,126701,289931459.0
+jammu-&-kashmir,2023,1,srinagar district,3695677,5650181266.0
+jammu-&-kashmir,2023,1,baramulla district,2752305,3542417579.0
+jammu-&-kashmir,2023,1,jammu district,10062633,15395688639.0
+jammu-&-kashmir,2023,1,ganderbal district,644922,800267495.0
+jammu-&-kashmir,2023,1,udhampur district,2150992,3199398064.0
+jammu-&-kashmir,2023,1,bandipore district,754833,915148396.0
+jammu-&-kashmir,2023,1,reasi district,1233189,1862756570.0
+jammu-&-kashmir,2023,1,shopian district,623973,739993898.0
+jammu-&-kashmir,2023,1,poonch district,897818,1517844484.0
+jammu-&-kashmir,2023,1,kathua district,1772544,2772584597.0
+jammu-&-kashmir,2023,1,kishtwar district,487478,569176836.0
+jammu-&-kashmir,2023,1,pulwama district,1576453,2301558160.0
+jammu-&-kashmir,2023,1,ramban district,772706,1041150660.0
+jammu-&-kashmir,2023,1,rajouri district,1314677,2352043692.0
+jammu-&-kashmir,2023,1,kulgam district,1057703,1040759344.0
+jammu-&-kashmir,2023,1,budgam district,2135840,2875364245.0
+jammu-&-kashmir,2023,1,anantnag district,2186498,2447319229.0
+jammu-&-kashmir,2023,1,kupwara district,2010053,2711442887.0
+jammu-&-kashmir,2023,2,muzaffarabad district,35337,65849840.0
+jammu-&-kashmir,2023,2,doda district,1230358,1389627752.0
+jammu-&-kashmir,2023,2,samba district,2462291,3578070894.0
+jammu-&-kashmir,2023,2,mirpur district,183099,376011800.0
+jammu-&-kashmir,2023,2,srinagar district,5798618,9057848812.0
+jammu-&-kashmir,2023,2,baramulla district,3950312,5012742718.0
+jammu-&-kashmir,2023,2,jammu district,12519665,18093034879.0
+jammu-&-kashmir,2023,2,ganderbal district,1094888,1523913758.0
+jammu-&-kashmir,2023,2,udhampur district,2810698,4021272291.0
+jammu-&-kashmir,2023,2,bandipore district,1065502,1344236762.0
+jammu-&-kashmir,2023,2,reasi district,1749496,2622419268.0
+jammu-&-kashmir,2023,2,shopian district,989787,1103187221.0
+jammu-&-kashmir,2023,2,poonch district,1340547,2319474214.0
+jammu-&-kashmir,2023,2,kathua district,2417101,3367803832.0
+jammu-&-kashmir,2023,2,kishtwar district,663666,813628523.0
+jammu-&-kashmir,2023,2,pulwama district,2254773,3358021119.0
+jammu-&-kashmir,2023,2,ramban district,1125339,1467712387.0
+jammu-&-kashmir,2023,2,rajouri district,1846860,3125635603.0
+jammu-&-kashmir,2023,2,kulgam district,1628248,1640404531.0
+jammu-&-kashmir,2023,2,budgam district,3062613,4214975804.0
+jammu-&-kashmir,2023,2,anantnag district,3335448,3997881663.0
+jammu-&-kashmir,2023,2,kupwara district,3023653,4036251709.0
 jharkhand,2018,1,ramgarh district,97459,85844869.66475454
 jharkhand,2018,1,ranchi district,356622,434234048.4962647
 jharkhand,2018,1,east singhbhum district,220276,257229540.65490007
@@ -5375,6 +5865,54 @@ jharkhand,2022,4,lohardaga district,1095064,2159930311.3398304
 jharkhand,2022,4,sahebganj district,2474476,4932348254.143383
 jharkhand,2022,4,giridih district,8482602,13630978502.274261
 jharkhand,2022,4,bokaro district,14851022,20173927151.750206
+jharkhand,2023,1,ramgarh district,10688070,15324220562.0
+jharkhand,2023,1,ranchi district,45763754,61307442040.0
+jharkhand,2023,1,east singhbhum district,20695978,27275071566.0
+jharkhand,2023,1,jamtara district,1481517,2635180765.0
+jharkhand,2023,1,dumka district,3372232,5906944175.0
+jharkhand,2023,1,koderma district,7645154,13917251391.0
+jharkhand,2023,1,hazaribagh district,21228363,33995623801.0
+jharkhand,2023,1,simdega district,1036519,2450550375.0
+jharkhand,2023,1,garhwa district,8515861,16499335691.0
+jharkhand,2023,1,saraikela kharsawan district,6970257,8827383450.0
+jharkhand,2023,1,gumla district,2029725,4104891588.0
+jharkhand,2023,1,chatra district,6232470,12017808736.0
+jharkhand,2023,1,khunti district,1168717,2377175763.0
+jharkhand,2023,1,dhanbad district,24716624,34527716262.0
+jharkhand,2023,1,godda district,4482399,7555569726.0
+jharkhand,2023,1,deoghar district,7539800,11237573934.0
+jharkhand,2023,1,palamu district,14108801,25744336745.0
+jharkhand,2023,1,latehar district,4198964,7646682896.0
+jharkhand,2023,1,west singhbhum district,3753368,5818704742.0
+jharkhand,2023,1,pakur district,2070848,4746109417.0
+jharkhand,2023,1,lohardaga district,2031412,3759027316.0
+jharkhand,2023,1,sahebganj district,4110076,8107176317.0
+jharkhand,2023,1,giridih district,15163904,24387875902.0
+jharkhand,2023,1,bokaro district,21453290,27201682861.0
+jharkhand,2023,2,ramgarh district,12806601,17474298562.0
+jharkhand,2023,2,ranchi district,55131854,71798538513.0
+jharkhand,2023,2,east singhbhum district,23821061,30294655974.0
+jharkhand,2023,2,jamtara district,1855906,2957871110.0
+jharkhand,2023,2,dumka district,4073834,6740644342.0
+jharkhand,2023,2,koderma district,9342877,16208234341.0
+jharkhand,2023,2,hazaribagh district,25466457,38465409550.0
+jharkhand,2023,2,simdega district,1266262,2811797948.0
+jharkhand,2023,2,garhwa district,10814050,19635730833.0
+jharkhand,2023,2,saraikela kharsawan district,8301368,9948103696.0
+jharkhand,2023,2,gumla district,2549588,4810641476.0
+jharkhand,2023,2,chatra district,7502236,13276799070.0
+jharkhand,2023,2,khunti district,1436778,2843169541.0
+jharkhand,2023,2,dhanbad district,28623519,38413855098.0
+jharkhand,2023,2,godda district,5402896,8748501333.0
+jharkhand,2023,2,deoghar district,9554315,13565681676.0
+jharkhand,2023,2,palamu district,18171987,30840862063.0
+jharkhand,2023,2,latehar district,5169626,8654316037.0
+jharkhand,2023,2,west singhbhum district,4574627,6735455503.0
+jharkhand,2023,2,pakur district,2536299,5489249909.0
+jharkhand,2023,2,lohardaga district,2634450,4433859327.0
+jharkhand,2023,2,sahebganj district,4854224,9131862326.0
+jharkhand,2023,2,giridih district,18718375,28408986717.0
+jharkhand,2023,2,bokaro district,24624703,30526202563.0
 karnataka,2018,1,mysuru district,331051,515455840.3810141
 karnataka,2018,1,chitradurga district,86333,121914949.95121673
 karnataka,2018,1,kalaburagi district,152325,212180924.393686
@@ -5975,6 +6513,66 @@ karnataka,2022,4,dharwad district,27717085,36289207502.73111
 karnataka,2022,4,shivamogga district,17761137,28561731845.161823
 karnataka,2022,4,udupi district,8818675,12891286924.60652
 karnataka,2022,4,gadag district,6661159,10329614180.904041
+karnataka,2023,1,mysuru district,69476703,102081266965.0
+karnataka,2023,1,chitradurga district,20380756,35025857004.0
+karnataka,2023,1,kalaburagi district,38475891,62736086592.0
+karnataka,2023,1,ramanagara district,28780586,44644046339.0
+karnataka,2023,1,mandya district,27582297,51089871879.0
+karnataka,2023,1,kodagu district,6979758,11971454409.0
+karnataka,2023,1,chikkamagaluru district,15839053,27060799645.0
+karnataka,2023,1,haveri district,14231228,22538872814.0
+karnataka,2023,1,ballari district,47163373,72409426251.0
+karnataka,2023,1,belagavi district,57532745,85400137021.0
+karnataka,2023,1,kolar district,35751853,58784650749.0
+karnataka,2023,1,uttara kannada district,13959083,21172992938.0
+karnataka,2023,1,tumakuru district,46279091,75621295866.0
+karnataka,2023,1,yadgir district,10725856,20480356589.0
+karnataka,2023,1,bengaluru urban district,1012347596,1167307214747.0
+karnataka,2023,1,chikkaballapura district,24880755,44641967762.0
+karnataka,2023,1,davanagere district,29174096,45441952270.0
+karnataka,2023,1,bagalkote district,23590774,35925148798.0
+karnataka,2023,1,vijayapura district,29335797,47696820115.0
+karnataka,2023,1,koppal district,18446482,28725236069.0
+karnataka,2023,1,bidar district,28500777,45275019283.0
+karnataka,2023,1,bengaluru rural district,55822209,78255906228.0
+karnataka,2023,1,raichur district,25226450,44662941986.0
+karnataka,2023,1,chamarajanagara district,8356400,14798033390.0
+karnataka,2023,1,dakshina kannada district,28042766,38918432493.0
+karnataka,2023,1,hassan district,29363015,51825912725.0
+karnataka,2023,1,dharwad district,45285470,55712206587.0
+karnataka,2023,1,shivamogga district,27921980,43693997731.0
+karnataka,2023,1,udupi district,13989107,19800656762.0
+karnataka,2023,1,gadag district,11255242,16528664310.0
+karnataka,2023,2,mysuru district,77947993,113330745472.0
+karnataka,2023,2,chitradurga district,23334593,39223910016.0
+karnataka,2023,2,kalaburagi district,43949529,70012762190.0
+karnataka,2023,2,ramanagara district,32862792,51075547444.0
+karnataka,2023,2,mandya district,31084437,57074017376.0
+karnataka,2023,2,kodagu district,8116662,13617990835.0
+karnataka,2023,2,chikkamagaluru district,18304032,30725618449.0
+karnataka,2023,2,haveri district,16217717,25722797319.0
+karnataka,2023,2,ballari district,54078814,82833769907.0
+karnataka,2023,2,belagavi district,64222081,94029814125.0
+karnataka,2023,2,kolar district,40150506,66342513839.0
+karnataka,2023,2,uttara kannada district,15871013,24133103295.0
+karnataka,2023,2,tumakuru district,52028144,84493652590.0
+karnataka,2023,2,yadgir district,12415657,23817528462.0
+karnataka,2023,2,bengaluru urban district,1124713207,1308665877658.0
+karnataka,2023,2,chikkaballapura district,27484712,50348133405.0
+karnataka,2023,2,davanagere district,33703063,51720330859.0
+karnataka,2023,2,bagalkote district,26637726,40225793749.0
+karnataka,2023,2,vijayapura district,33888784,54838017587.0
+karnataka,2023,2,koppal district,21758844,33330011295.0
+karnataka,2023,2,bidar district,32261599,50880102840.0
+karnataka,2023,2,bengaluru rural district,61918811,87017798673.0
+karnataka,2023,2,raichur district,29249226,52057148884.0
+karnataka,2023,2,chamarajanagara district,9768864,16631452734.0
+karnataka,2023,2,dakshina kannada district,30922936,43134422701.0
+karnataka,2023,2,hassan district,33532364,57299647893.0
+karnataka,2023,2,dharwad district,50253304,62911792502.0
+karnataka,2023,2,shivamogga district,32038521,49719581487.0
+karnataka,2023,2,udupi district,15889871,23083412358.0
+karnataka,2023,2,gadag district,13261724,19301802886.0
 kerala,2018,1,thiruvananthapuram district,172079,275202215.5887567
 kerala,2018,1,kasaragod district,37597,46522871.82306546
 kerala,2018,1,malappuram district,239508,256416524.03733116
@@ -6255,6 +6853,34 @@ kerala,2022,4,kannur district,6407573,9291348716.042475
 kerala,2022,4,kottayam district,6551967,9198738854.992409
 kerala,2022,4,ernakulam district,39069167,44933855503.73201
 kerala,2022,4,idukki district,2809537,4317415338.538482
+kerala,2023,1,thiruvananthapuram district,15777495,20405950025.0
+kerala,2023,1,kasaragod district,5032924,7561422786.0
+kerala,2023,1,malappuram district,15994699,19984929247.0
+kerala,2023,1,pathanamthitta district,3359879,5061220260.0
+kerala,2023,1,wayanad district,5237998,7147747721.0
+kerala,2023,1,alappuzha district,7029352,9925279750.0
+kerala,2023,1,kozhikode district,17609474,21740839808.0
+kerala,2023,1,kollam district,8766861,12995036174.0
+kerala,2023,1,thrissur district,9811793,13503012488.0
+kerala,2023,1,palakkad district,8521427,12458676100.0
+kerala,2023,1,kannur district,10009053,14112565339.0
+kerala,2023,1,kottayam district,6448095,9176107601.0
+kerala,2023,1,ernakulam district,30034347,33704884058.0
+kerala,2023,1,idukki district,3988168,5859418320.0
+kerala,2023,2,thiruvananthapuram district,16834507,21968674795.0
+kerala,2023,2,kasaragod district,5421249,8103400236.0
+kerala,2023,2,malappuram district,16442153,20942444241.0
+kerala,2023,2,pathanamthitta district,3555022,5219658676.0
+kerala,2023,2,wayanad district,5751930,8091617292.0
+kerala,2023,2,alappuzha district,7694391,10929530290.0
+kerala,2023,2,kozhikode district,18231277,23125966041.0
+kerala,2023,2,kollam district,9464997,13897112666.0
+kerala,2023,2,thrissur district,10462551,14454609093.0
+kerala,2023,2,palakkad district,8994974,13287372163.0
+kerala,2023,2,kannur district,10783259,15253685629.0
+kerala,2023,2,kottayam district,6878572,9740957685.0
+kerala,2023,2,ernakulam district,31266275,36160448548.0
+kerala,2023,2,idukki district,4389460,6621193630.0
 ladakh,2018,1,kargil district,1244,3430931.079044319
 ladakh,2018,1,leh ladakh district,4845,9101926.692070464
 ladakh,2018,2,kargil district,4041,14170742.184864359
@@ -6295,6 +6921,10 @@ ladakh,2022,3,kargil district,244513,647171126.7724077
 ladakh,2022,3,leh ladakh district,946345,2958028223.6015005
 ladakh,2022,4,kargil district,233208,548410667.5396475
 ladakh,2022,4,leh ladakh district,850164,2346066905.1393
+ladakh,2023,1,kargil district,301776,630698644.0
+ladakh,2023,1,leh ladakh district,1265470,3218322654.0
+ladakh,2023,2,kargil district,636520,1257128294.0
+ladakh,2023,2,leh ladakh district,2307295,5933975592.0
 lakshadweep,2018,1,lakshadweep district,778,1928611.1808777403
 lakshadweep,2018,2,lakshadweep district,2132,6187809.539400538
 lakshadweep,2018,3,lakshadweep district,1703,4339032.311985849
@@ -6315,6 +6945,8 @@ lakshadweep,2022,1,lakshadweep district,16397,54939432.65393007
 lakshadweep,2022,2,lakshadweep district,17569,55929601.98990567
 lakshadweep,2022,3,lakshadweep district,15241,47580009.61750026
 lakshadweep,2022,4,lakshadweep district,17147,54813873.61493625
+lakshadweep,2023,1,lakshadweep district,29520,85321961.0
+lakshadweep,2023,2,lakshadweep district,34918,97987438.0
 madhya-pradesh,2018,1,morena district,107452,106573744.57901591
 madhya-pradesh,2018,1,alirajpur district,7310,11011810.083897822
 madhya-pradesh,2018,1,sehore district,262578,253627459.66805387
@@ -7355,6 +7987,110 @@ madhya-pradesh,2022,4,shahdol district,10700938,14780956554.066238
 madhya-pradesh,2022,4,ratlam district,7498598,13746333050.618015
 madhya-pradesh,2022,4,panna district,2209465,3903628822.4956465
 madhya-pradesh,2022,4,chhatarpur district,5519834,9172166022.913769
+madhya-pradesh,2023,1,morena district,10686191,20763211198.0
+madhya-pradesh,2023,1,alirajpur district,1699280,3014271212.0
+madhya-pradesh,2023,1,sehore district,16316080,23436920406.0
+madhya-pradesh,2023,1,rajgarh district,14241438,22816765693.0
+madhya-pradesh,2023,1,khargone district,14134805,23107387024.0
+madhya-pradesh,2023,1,satna district,14659261,23248811742.0
+madhya-pradesh,2023,1,narsinghpur district,7632517,12760355274.0
+madhya-pradesh,2023,1,jabalpur district,25123516,37663871660.0
+madhya-pradesh,2023,1,hoshangabad district,10868522,16701530435.0
+madhya-pradesh,2023,1,vidisha district,10358005,15695513889.0
+madhya-pradesh,2023,1,balaghat district,11797166,19573952680.0
+madhya-pradesh,2023,1,singrauli district,12426060,17865093566.0
+madhya-pradesh,2023,1,betul district,11215522,16520149408.0
+madhya-pradesh,2023,1,sidhi district,6435775,10699562881.0
+madhya-pradesh,2023,1,datia district,4011463,7336433329.0
+madhya-pradesh,2023,1,dewas district,19792878,29287649682.0
+madhya-pradesh,2023,1,sheopur district,2868709,5271059935.0
+madhya-pradesh,2023,1,neemuch district,7470963,12686616322.0
+madhya-pradesh,2023,1,raisen district,12596483,17234041147.0
+madhya-pradesh,2023,1,mandsaur district,12214565,20429209086.0
+madhya-pradesh,2023,1,barwani district,7241976,11665294275.0
+madhya-pradesh,2023,1,katni district,7974722,12697466536.0
+madhya-pradesh,2023,1,dindori district,2626882,4198821455.0
+madhya-pradesh,2023,1,shivpuri district,9999695,16247149328.0
+madhya-pradesh,2023,1,gwalior district,32530192,52982719835.0
+madhya-pradesh,2023,1,anuppur district,4978578,6898317563.0
+madhya-pradesh,2023,1,agar malwa district,5652257,8890197383.0
+madhya-pradesh,2023,1,ashoknagar district,4636570,7056791855.0
+madhya-pradesh,2023,1,sagar district,15749995,23447713210.0
+madhya-pradesh,2023,1,niwari district,1908052,2838128662.0
+madhya-pradesh,2023,1,rewa district,16354341,27952686901.0
+madhya-pradesh,2023,1,shajapur district,9144868,14010310387.0
+madhya-pradesh,2023,1,ujjain district,26942883,40817423529.0
+madhya-pradesh,2023,1,bhind district,7701586,14167957162.0
+madhya-pradesh,2023,1,tikamgarh district,5112355,6655789911.0
+madhya-pradesh,2023,1,seoni district,9165024,15277605373.0
+madhya-pradesh,2023,1,harda district,4221781,6865152580.0
+madhya-pradesh,2023,1,burhanpur district,5500116,8033806219.0
+madhya-pradesh,2023,1,damoh district,5189467,8647652668.0
+madhya-pradesh,2023,1,bhopal district,90233129,100743031945.0
+madhya-pradesh,2023,1,jhabua district,4267462,7361953378.0
+madhya-pradesh,2023,1,dhar district,23103625,33382954474.0
+madhya-pradesh,2023,1,guna district,10921889,15668230156.0
+madhya-pradesh,2023,1,east nimar district,10196585,14043471330.0
+madhya-pradesh,2023,1,chhindwara district,17392755,24958783288.0
+madhya-pradesh,2023,1,umaria district,3458056,4964089653.0
+madhya-pradesh,2023,1,mandla district,4528309,7487595655.0
+madhya-pradesh,2023,1,indore district,125871728,151714773334.0
+madhya-pradesh,2023,1,shahdol district,8460666,12243800481.0
+madhya-pradesh,2023,1,ratlam district,13368185,22589719049.0
+madhya-pradesh,2023,1,panna district,3996487,6811134093.0
+madhya-pradesh,2023,1,chhatarpur district,9587555,14593671664.0
+madhya-pradesh,2023,2,morena district,12746595,23090535110.0
+madhya-pradesh,2023,2,alirajpur district,2044217,3410365854.0
+madhya-pradesh,2023,2,sehore district,18815311,28128404111.0
+madhya-pradesh,2023,2,rajgarh district,16220050,26258964576.0
+madhya-pradesh,2023,2,khargone district,16316176,25590576015.0
+madhya-pradesh,2023,2,satna district,17480872,26092732307.0
+madhya-pradesh,2023,2,narsinghpur district,8759675,13912452183.0
+madhya-pradesh,2023,2,jabalpur district,28848316,41668633973.0
+madhya-pradesh,2023,2,hoshangabad district,12933700,20327799783.0
+madhya-pradesh,2023,2,vidisha district,12032535,20267662231.0
+madhya-pradesh,2023,2,balaghat district,13529037,20202541461.0
+madhya-pradesh,2023,2,singrauli district,14469817,19848155468.0
+madhya-pradesh,2023,2,betul district,13026175,18471881890.0
+madhya-pradesh,2023,2,sidhi district,8014311,12772051930.0
+madhya-pradesh,2023,2,datia district,4835555,8694596521.0
+madhya-pradesh,2023,2,dewas district,22398163,33309353948.0
+madhya-pradesh,2023,2,sheopur district,3376585,6096923395.0
+madhya-pradesh,2023,2,neemuch district,8882314,14553031730.0
+madhya-pradesh,2023,2,raisen district,14772187,21120817357.0
+madhya-pradesh,2023,2,mandsaur district,14328054,23263341441.0
+madhya-pradesh,2023,2,barwani district,8733872,12865387100.0
+madhya-pradesh,2023,2,katni district,9309198,13841697027.0
+madhya-pradesh,2023,2,dindori district,3150072,4476124554.0
+madhya-pradesh,2023,2,shivpuri district,11945643,18804002020.0
+madhya-pradesh,2023,2,gwalior district,37274900,57528982641.0
+madhya-pradesh,2023,2,anuppur district,5812115,7274177404.0
+madhya-pradesh,2023,2,agar malwa district,6556962,10211660013.0
+madhya-pradesh,2023,2,ashoknagar district,5389942,8531243843.0
+madhya-pradesh,2023,2,sagar district,18388702,28198548692.0
+madhya-pradesh,2023,2,niwari district,2213184,3194991117.0
+madhya-pradesh,2023,2,rewa district,20065798,32186209412.0
+madhya-pradesh,2023,2,shajapur district,10590494,16674703111.0
+madhya-pradesh,2023,2,ujjain district,30837675,46609017169.0
+madhya-pradesh,2023,2,bhind district,9363112,16700023853.0
+madhya-pradesh,2023,2,tikamgarh district,5829261,7630069079.0
+madhya-pradesh,2023,2,seoni district,10810911,17006571666.0
+madhya-pradesh,2023,2,harda district,4972958,8831497569.0
+madhya-pradesh,2023,2,burhanpur district,6429644,9294831065.0
+madhya-pradesh,2023,2,damoh district,6240346,10076429047.0
+madhya-pradesh,2023,2,bhopal district,101329806,112080830923.0
+madhya-pradesh,2023,2,jhabua district,4953992,8100602241.0
+madhya-pradesh,2023,2,dhar district,26679875,36996250233.0
+madhya-pradesh,2023,2,guna district,12090512,18248026141.0
+madhya-pradesh,2023,2,east nimar district,11954422,16128137001.0
+madhya-pradesh,2023,2,chhindwara district,20020454,28324665903.0
+madhya-pradesh,2023,2,umaria district,4062198,5326154622.0
+madhya-pradesh,2023,2,mandla district,5342369,8075464610.0
+madhya-pradesh,2023,2,indore district,142167846,167783471243.0
+madhya-pradesh,2023,2,shahdol district,9769820,13105756249.0
+madhya-pradesh,2023,2,ratlam district,15441252,25581072044.0
+madhya-pradesh,2023,2,panna district,4978175,8158604151.0
+madhya-pradesh,2023,2,chhatarpur district,11501905,17514926481.0
 maharashtra,2018,1,jalgaon district,332668,346720332.5468058
 maharashtra,2018,1,latur district,259016,237246239.72263384
 maharashtra,2018,1,thane district,1243518,1995816824.6734967
@@ -8075,6 +8811,78 @@ maharashtra,2022,4,ahmednagar district,50187075,84188481406.43468
 maharashtra,2022,4,pune district,544687754,590334491443.0928
 maharashtra,2022,4,beed district,17664451,32278259899.815784
 maharashtra,2022,4,satara district,23125362,32215623082.643204
+maharashtra,2023,1,jalgaon district,38623435,61341010913.0
+maharashtra,2023,1,latur district,35158548,49084964636.0
+maharashtra,2023,1,thane district,142097640,164652846524.0
+maharashtra,2023,1,bhandara district,7547790,12694847227.0
+maharashtra,2023,1,nandurbar district,8430736,14050704312.0
+maharashtra,2023,1,chandrapur district,18577094,25598818006.0
+maharashtra,2023,1,kolhapur district,34958486,47429221437.0
+maharashtra,2023,1,solapur district,78530550,129110342469.0
+maharashtra,2023,1,mumbai district,45774016,60530759966.0
+maharashtra,2023,1,sindhudurg district,2710982,4162122806.0
+maharashtra,2023,1,dhule district,18707553,29608854638.0
+maharashtra,2023,1,wardha district,9686307,13865514215.0
+maharashtra,2023,1,parbhani district,17271660,25877465140.0
+maharashtra,2023,1,mumbai suburban district,119452769,138677680552.0
+maharashtra,2023,1,hingoli district,8685933,13136815207.0
+maharashtra,2023,1,ratnagiri district,5377285,7625526219.0
+maharashtra,2023,1,nanded district,35403216,56316419080.0
+maharashtra,2023,1,osmanabad district,21559939,34320473293.0
+maharashtra,2023,1,nagpur district,87172881,116369650409.0
+maharashtra,2023,1,buldhana district,25016513,39188670455.0
+maharashtra,2023,1,nashik district,119376880,167693934792.0
+maharashtra,2023,1,akola district,15331681,22237521926.0
+maharashtra,2023,1,yavatmal district,18270826,27373429492.0
+maharashtra,2023,1,aurangabad district,95131875,121063237188.0
+maharashtra,2023,1,amravati district,28366757,42808116309.0
+maharashtra,2023,1,washim district,9081915,13734807753.0
+maharashtra,2023,1,sangli district,28688837,44817250461.0
+maharashtra,2023,1,gadchiroli district,5702009,9728601846.0
+maharashtra,2023,1,raigad district,50072751,58510274697.0
+maharashtra,2023,1,palghar district,37732488,46209116176.0
+maharashtra,2023,1,jalna district,21617002,33979501349.0
+maharashtra,2023,1,gondia district,8055392,13740824732.0
+maharashtra,2023,1,ahmednagar district,78198945,127588673135.0
+maharashtra,2023,1,pune district,505841046,489824129517.0
+maharashtra,2023,1,beed district,29176974,50233010150.0
+maharashtra,2023,1,satara district,36879788,49100769032.0
+maharashtra,2023,2,jalgaon district,43918929,69143178468.0
+maharashtra,2023,2,latur district,39755669,56437687102.0
+maharashtra,2023,2,thane district,155714593,178939371434.0
+maharashtra,2023,2,bhandara district,8772364,14542894283.0
+maharashtra,2023,2,nandurbar district,9729146,15801530018.0
+maharashtra,2023,2,chandrapur district,21125219,28796861535.0
+maharashtra,2023,2,kolhapur district,38284895,50983300644.0
+maharashtra,2023,2,solapur district,88308858,140499967071.0
+maharashtra,2023,2,mumbai district,50518947,64178064613.0
+maharashtra,2023,2,sindhudurg district,3206946,4994087558.0
+maharashtra,2023,2,dhule district,21311364,32657563897.0
+maharashtra,2023,2,wardha district,11018651,15725149078.0
+maharashtra,2023,2,parbhani district,20113729,29564795893.0
+maharashtra,2023,2,mumbai suburban district,130857450,148410175880.0
+maharashtra,2023,2,hingoli district,10210748,15096901996.0
+maharashtra,2023,2,ratnagiri district,6003448,8454328736.0
+maharashtra,2023,2,nanded district,41039783,65861160572.0
+maharashtra,2023,2,osmanabad district,24996830,38698944859.0
+maharashtra,2023,2,nagpur district,97521493,129504759626.0
+maharashtra,2023,2,buldhana district,29278971,45401769170.0
+maharashtra,2023,2,nashik district,135966489,184867119659.0
+maharashtra,2023,2,akola district,17501058,25163689217.0
+maharashtra,2023,2,yavatmal district,21384758,31432158097.0
+maharashtra,2023,2,aurangabad district,105820511,132952857337.0
+maharashtra,2023,2,amravati district,32364745,47513217418.0
+maharashtra,2023,2,washim district,10672777,15839093691.0
+maharashtra,2023,2,sangli district,31753332,47671264598.0
+maharashtra,2023,2,gadchiroli district,6511653,10972942391.0
+maharashtra,2023,2,raigad district,55379671,63261035124.0
+maharashtra,2023,2,palghar district,40593300,48523737919.0
+maharashtra,2023,2,jalna district,25426010,39055254952.0
+maharashtra,2023,2,gondia district,9289985,15203836441.0
+maharashtra,2023,2,ahmednagar district,88553642,139707887255.0
+maharashtra,2023,2,pune district,554427668,535801107518.0
+maharashtra,2023,2,beed district,34709080,59796330775.0
+maharashtra,2023,2,satara district,41675136,54550581643.0
 manipur,2018,1,kangpokpi district,4187,12129421.383849183
 manipur,2018,1,noney district,646,747261.2810295916
 manipur,2018,1,imphal east district,21960,26028937.81002756
@@ -8395,6 +9203,38 @@ manipur,2022,4,pherzawl district,3998,12008369.41204643
 manipur,2022,4,churachandpur district,139622,418292018.1391273
 manipur,2022,4,tengnoupal district,49553,175755833.191996
 manipur,2022,4,imphal west district,4737839,11004726597.698875
+manipur,2023,1,kangpokpi district,211256,520765461.0
+manipur,2023,1,noney district,42474,105173660.0
+manipur,2023,1,imphal east district,659880,1637025593.0
+manipur,2023,1,thoubal district,315961,796620060.0
+manipur,2023,1,kakching district,73843,198151744.0
+manipur,2023,1,jiribam district,77431,212799071.0
+manipur,2023,1,ukhrul district,83455,267514824.0
+manipur,2023,1,tamenglong district,86492,231452890.0
+manipur,2023,1,kamjong district,14147,46200306.0
+manipur,2023,1,chandel district,71874,194324741.0
+manipur,2023,1,bishnupur district,231239,626631062.0
+manipur,2023,1,senapati district,94404,252756548.0
+manipur,2023,1,pherzawl district,7046,16737449.0
+manipur,2023,1,churachandpur district,221158,582341436.0
+manipur,2023,1,tengnoupal district,79811,294235941.0
+manipur,2023,1,imphal west district,987912,2602833306.0
+manipur,2023,2,kangpokpi district,96061,265835614.0
+manipur,2023,2,noney district,19828,52589124.0
+manipur,2023,2,imphal east district,332809,855990060.0
+manipur,2023,2,thoubal district,155290,412755825.0
+manipur,2023,2,kakching district,34781,104524162.0
+manipur,2023,2,jiribam district,53949,153237238.0
+manipur,2023,2,ukhrul district,41027,131978491.0
+manipur,2023,2,tamenglong district,42991,121710165.0
+manipur,2023,2,kamjong district,6735,19646588.0
+manipur,2023,2,chandel district,32757,105500017.0
+manipur,2023,2,bishnupur district,108042,304861281.0
+manipur,2023,2,senapati district,49144,139357712.0
+manipur,2023,2,pherzawl district,4764,13802243.0
+manipur,2023,2,churachandpur district,108049,309376954.0
+manipur,2023,2,tengnoupal district,35862,125510737.0
+manipur,2023,2,imphal west district,484182,1347200442.0
 meghalaya,2018,1,north garo hills district,922,652554.6654640209
 meghalaya,2018,1,south west khasi hills district,319,489330.8331522482
 meghalaya,2018,1,west garo hills district,7660,9199200.848858135
@@ -8615,6 +9455,28 @@ meghalaya,2022,4,east garo hills district,59445,143293321.8148586
 meghalaya,2022,4,ribhoi district,416100,855262410.3336376
 meghalaya,2022,4,west jaintia hills district,81501,229129661.89603108
 meghalaya,2022,4,west khasi hills district,41404,141954215.09290665
+meghalaya,2023,1,north garo hills district,97035,198957381.0
+meghalaya,2023,1,south west khasi hills district,34526,123121635.0
+meghalaya,2023,1,west garo hills district,1041221,2765563809.0
+meghalaya,2023,1,south garo hills district,95917,276701570.0
+meghalaya,2023,1,east jaintia hills district,515136,1371613773.0
+meghalaya,2023,1,south west garo hills district,112416,302145041.0
+meghalaya,2023,1,east khasi hills district,1220563,2680323809.0
+meghalaya,2023,1,east garo hills district,102374,230703822.0
+meghalaya,2023,1,ribhoi district,729560,1474982935.0
+meghalaya,2023,1,west jaintia hills district,134028,377216408.0
+meghalaya,2023,1,west khasi hills district,81929,283510432.0
+meghalaya,2023,2,north garo hills district,113361,215038091.0
+meghalaya,2023,2,south west khasi hills district,37376,127026105.0
+meghalaya,2023,2,west garo hills district,1313181,3093601156.0
+meghalaya,2023,2,south garo hills district,104600,273407662.0
+meghalaya,2023,2,east jaintia hills district,602439,1411515511.0
+meghalaya,2023,2,south west garo hills district,138973,324256480.0
+meghalaya,2023,2,east khasi hills district,1584287,3308371744.0
+meghalaya,2023,2,east garo hills district,119181,259323245.0
+meghalaya,2023,2,ribhoi district,849150,1540619034.0
+meghalaya,2023,2,west jaintia hills district,143311,363450970.0
+meghalaya,2023,2,west khasi hills district,71353,167896488.0
 mizoram,2018,1,serchhip district,691,1729998.4078016216
 mizoram,2018,1,aizawl district,12006,27918980.947612707
 mizoram,2018,1,lunglei district,1604,2350555.3184242332
@@ -8775,6 +9637,22 @@ mizoram,2022,4,lawngtlai district,60120,176322495.4134693
 mizoram,2022,4,kolasib district,55854,157046232.3046887
 mizoram,2022,4,champhai district,33252,110073440.44820769
 mizoram,2022,4,saiha district,19566,82040637.84033793
+mizoram,2023,1,serchhip district,47296,123979875.0
+mizoram,2023,1,aizawl district,504609,1341466173.0
+mizoram,2023,1,lunglei district,133494,370554828.0
+mizoram,2023,1,mamit district,70712,203623313.0
+mizoram,2023,1,lawngtlai district,100980,302696707.0
+mizoram,2023,1,kolasib district,101803,285504599.0
+mizoram,2023,1,champhai district,60149,197355098.0
+mizoram,2023,1,saiha district,33552,130442146.0
+mizoram,2023,2,serchhip district,59329,133368970.0
+mizoram,2023,2,aizawl district,591532,1487286801.0
+mizoram,2023,2,lunglei district,143000,370416278.0
+mizoram,2023,2,mamit district,78957,210372609.0
+mizoram,2023,2,lawngtlai district,118358,363557404.0
+mizoram,2023,2,kolasib district,115550,294504301.0
+mizoram,2023,2,champhai district,62301,181668968.0
+mizoram,2023,2,saiha district,39903,150631245.0
 nagaland,2018,1,mon district,1851,2962723.1216541342
 nagaland,2018,1,phek district,1397,1347986.0495203384
 nagaland,2018,1,longleng district,605,547262.5934366982
@@ -8995,6 +9873,28 @@ nagaland,2022,4,peren district,24353,76706538.54194441
 nagaland,2022,4,dimapur district,1632985,4411217834.641218
 nagaland,2022,4,zunheboto district,29697,102825390.6874178
 nagaland,2022,4,wokha district,111374,296499670.55821544
+nagaland,2023,1,mon district,149869,486405792.0
+nagaland,2023,1,phek district,79530,255188847.0
+nagaland,2023,1,longleng district,35715,115405751.0
+nagaland,2023,1,mokokchung district,145142,452314800.0
+nagaland,2023,1,kiphire district,36068,110625247.0
+nagaland,2023,1,kohima district,453911,1235284779.0
+nagaland,2023,1,tuensang district,87808,328452538.0
+nagaland,2023,1,peren district,51856,144439545.0
+nagaland,2023,1,dimapur district,1475840,4205042331.0
+nagaland,2023,1,zunheboto district,63639,195487440.0
+nagaland,2023,1,wokha district,106192,285750784.0
+nagaland,2023,2,mon district,133673,410071101.0
+nagaland,2023,2,phek district,73829,238420851.0
+nagaland,2023,2,longleng district,24806,73921018.0
+nagaland,2023,2,mokokchung district,141308,427839496.0
+nagaland,2023,2,kiphire district,33949,107432144.0
+nagaland,2023,2,kohima district,501179,1346997995.0
+nagaland,2023,2,tuensang district,76278,274350868.0
+nagaland,2023,2,peren district,47839,140403703.0
+nagaland,2023,2,dimapur district,1735282,4577151672.0
+nagaland,2023,2,zunheboto district,46870,140294277.0
+nagaland,2023,2,wokha district,106988,284516185.0
 odisha,2018,1,rayagada district,57875,63041849.54983255
 odisha,2018,1,koraput district,64106,87612627.38374957
 odisha,2018,1,malkangiri district,12181,13922771.654664017
@@ -9595,6 +10495,66 @@ odisha,2022,4,nayagarh district,4834028,7483877287.158049
 odisha,2022,4,nabarangpur district,2969219,5927912765.485254
 odisha,2022,4,kendrapara district,7111443,11163586588.46068
 odisha,2022,4,cuttack district,30402517,45410411960.17213
+odisha,2023,1,rayagada district,9242117,15843507868.0
+odisha,2023,1,koraput district,10477639,19625419729.0
+odisha,2023,1,malkangiri district,3379377,7024085785.0
+odisha,2023,1,sambalpur district,14071573,20599161744.0
+odisha,2023,1,kalahandi district,10265015,17450640008.0
+odisha,2023,1,anugul district,15740427,27099331321.0
+odisha,2023,1,ganjam district,32835788,61573352324.0
+odisha,2023,1,jajapur district,25255634,37473229516.0
+odisha,2023,1,bargarh district,8484449,15825674760.0
+odisha,2023,1,dhenkanal district,11782611,18813154646.0
+odisha,2023,1,bhadrak district,16140167,26416399764.0
+odisha,2023,1,nuapada district,3426856,6435315301.0
+odisha,2023,1,kendujhar district,18026645,31232789553.0
+odisha,2023,1,mayurbhanj district,12205379,20296749444.0
+odisha,2023,1,jharsuguda district,9307491,13856078393.0
+odisha,2023,1,kandhamal district,3307033,5954869943.0
+odisha,2023,1,deogarh district,1468398,2928557374.0
+odisha,2023,1,sundargarh district,20729692,33143659545.0
+odisha,2023,1,jagatsinghapur district,13624395,20464625700.0
+odisha,2023,1,balangir district,10543941,19132286523.0
+odisha,2023,1,baleshwar district,22230329,39044589915.0
+odisha,2023,1,puri district,21713045,32501736718.0
+odisha,2023,1,sonepur district,3584230,7359675423.0
+odisha,2023,1,khordha district,111522734,135017933250.0
+odisha,2023,1,boudh district,2331533,4699827212.0
+odisha,2023,1,gajapati district,3933839,7156141256.0
+odisha,2023,1,nayagarh district,8162882,13199944354.0
+odisha,2023,1,nabarangpur district,5141635,11008689918.0
+odisha,2023,1,kendrapara district,12576184,20308826840.0
+odisha,2023,1,cuttack district,41385050,62482723536.0
+odisha,2023,2,rayagada district,10430733,16326853134.0
+odisha,2023,2,koraput district,12108317,20632039550.0
+odisha,2023,2,malkangiri district,4006534,7377060939.0
+odisha,2023,2,sambalpur district,13805023,19664092856.0
+odisha,2023,2,kalahandi district,11483007,17433145169.0
+odisha,2023,2,anugul district,17821017,28339516034.0
+odisha,2023,2,ganjam district,37687158,65580991112.0
+odisha,2023,2,jajapur district,28791729,40171499264.0
+odisha,2023,2,bargarh district,9687928,16347856794.0
+odisha,2023,2,dhenkanal district,13271170,19560724883.0
+odisha,2023,2,bhadrak district,18158095,27663111525.0
+odisha,2023,2,nuapada district,3842005,6363214004.0
+odisha,2023,2,kendujhar district,20222348,32289663832.0
+odisha,2023,2,mayurbhanj district,14022144,22050422348.0
+odisha,2023,2,jharsuguda district,10602684,14973940875.0
+odisha,2023,2,kandhamal district,3880193,6668488360.0
+odisha,2023,2,deogarh district,1650318,3119334936.0
+odisha,2023,2,sundargarh district,23197177,35645373543.0
+odisha,2023,2,jagatsinghapur district,15759372,22153848980.0
+odisha,2023,2,balangir district,11856945,18902988269.0
+odisha,2023,2,baleshwar district,25291904,42078597675.0
+odisha,2023,2,puri district,25372964,36233538120.0
+odisha,2023,2,sonepur district,4062758,7337203832.0
+odisha,2023,2,khordha district,124412287,146803819835.0
+odisha,2023,2,boudh district,2609458,4594961187.0
+odisha,2023,2,gajapati district,4433293,7628137659.0
+odisha,2023,2,nayagarh district,9151257,13825445948.0
+odisha,2023,2,nabarangpur district,5915153,10698518195.0
+odisha,2023,2,kendrapara district,14559641,22059925056.0
+odisha,2023,2,cuttack district,46505217,66807740190.0
 puducherry,2018,1,karaikal district,10266,17996501.51665456
 puducherry,2018,1,puducherry district,86486,136205607.94582328
 puducherry,2018,1,yanam district,5948,9167584.996845197
@@ -9675,6 +10635,14 @@ puducherry,2022,4,karaikal district,488147,837406336.5163367
 puducherry,2022,4,puducherry district,6382870,9121245940.116945
 puducherry,2022,4,yanam district,536311,969860108.2593638
 puducherry,2022,4,mahe district,148799,213692492.28184882
+puducherry,2023,1,karaikal district,791763,1298008037.0
+puducherry,2023,1,puducherry district,8201469,11002579889.0
+puducherry,2023,1,yanam district,919789,1592729097.0
+puducherry,2023,1,mahe district,231274,329071483.0
+puducherry,2023,2,karaikal district,864821,1352373335.0
+puducherry,2023,2,puducherry district,8965912,11885508091.0
+puducherry,2023,2,yanam district,1041312,1778086558.0
+puducherry,2023,2,mahe district,258281,370765273.0
 punjab,2018,1,shahid bhagat singh nagar district,20891,31984799.717137292
 punjab,2018,1,fazilka district,100864,118915901.3809619
 punjab,2018,1,barnala district,20348,30779491.360747688
@@ -10115,6 +11083,50 @@ punjab,2022,4,amritsar district,6049600,13743135320.995771
 punjab,2022,4,faridkot district,1155081,2440606872.510115
 punjab,2022,4,hoshiarpur district,2110456,4366867188.489857
 punjab,2022,4,moga district,1117782,2598705267.174854
+punjab,2023,1,shahid bhagat singh nagar district,762817,1549389213.0
+punjab,2023,1,fazilka district,4028383,8647844615.0
+punjab,2023,1,barnala district,911170,2095766994.0
+punjab,2023,1,mansa district,1024444,2378165204.0
+punjab,2023,1,ludhiana district,17816751,32156700975.0
+punjab,2023,1,sri muktsar sahib district,1574293,3519288231.0
+punjab,2023,1,patiala district,6495233,12454554359.0
+punjab,2023,1,pathankot district,2993773,5705395017.0
+punjab,2023,1,fatehgarh sahib district,1871298,3091398150.0
+punjab,2023,1,rupnagar district,2111550,3561717869.0
+punjab,2023,1,tarn taran district,2072413,5566929182.0
+punjab,2023,1,sas nagar district,17880615,21373928207.0
+punjab,2023,1,sangrur district,2855725,6302620245.0
+punjab,2023,1,jalandhar district,6621689,12439854504.0
+punjab,2023,1,bathinda district,4479830,8510699918.0
+punjab,2023,1,kapurthala district,4789609,5052282821.0
+punjab,2023,1,firozepur district,2066667,4473003004.0
+punjab,2023,1,gurdaspur district,2880763,6723220933.0
+punjab,2023,1,amritsar district,8054134,17668281523.0
+punjab,2023,1,faridkot district,1242984,2747619264.0
+punjab,2023,1,hoshiarpur district,2892240,5925389993.0
+punjab,2023,1,moga district,1484440,3564626639.0
+punjab,2023,2,shahid bhagat singh nagar district,909459,1655361524.0
+punjab,2023,2,fazilka district,4579105,8985950540.0
+punjab,2023,2,barnala district,1083069,2234762008.0
+punjab,2023,2,mansa district,1166654,2555189924.0
+punjab,2023,2,ludhiana district,22554895,35359847523.0
+punjab,2023,2,sri muktsar sahib district,1798233,3787996805.0
+punjab,2023,2,patiala district,7663061,13547068283.0
+punjab,2023,2,pathankot district,3767003,6676143350.0
+punjab,2023,2,fatehgarh sahib district,2335028,3444403301.0
+punjab,2023,2,rupnagar district,2538437,3942178736.0
+punjab,2023,2,tarn taran district,2504225,6382296582.0
+punjab,2023,2,sas nagar district,22117025,24569235951.0
+punjab,2023,2,sangrur district,3359666,6900598692.0
+punjab,2023,2,jalandhar district,8143317,14019874795.0
+punjab,2023,2,bathinda district,5256705,9341313275.0
+punjab,2023,2,kapurthala district,5289233,5468505445.0
+punjab,2023,2,firozepur district,2527606,5166272646.0
+punjab,2023,2,gurdaspur district,3477902,7577546856.0
+punjab,2023,2,amritsar district,9585528,19512814116.0
+punjab,2023,2,faridkot district,1422332,2864591622.0
+punjab,2023,2,hoshiarpur district,3461203,6428820643.0
+punjab,2023,2,moga district,1750603,3760802837.0
 rajasthan,2018,1,pali district,111172,141412669.85341728
 rajasthan,2018,1,ganganagar district,238689,291145139.76298976
 rajasthan,2018,1,churu district,141055,120983003.97469175
@@ -10775,6 +11787,72 @@ rajasthan,2022,4,jhalawar district,6716599,11281766014.824902
 rajasthan,2022,4,alwar district,38922404,61077684974.04574
 rajasthan,2022,4,kota district,26571402,37841298987.05793
 rajasthan,2022,4,jhunjhunu district,13984497,29279732154.496353
+rajasthan,2023,1,pali district,16879253,30545417498.0
+rajasthan,2023,1,ganganagar district,23684504,42408661017.0
+rajasthan,2023,1,churu district,16344145,34147762001.0
+rajasthan,2023,1,jaipur district,250101628,383391511211.0
+rajasthan,2023,1,baran district,7842338,12298806556.0
+rajasthan,2023,1,bhilwara district,40390520,69684628207.0
+rajasthan,2023,1,banswara district,5660214,9767493283.0
+rajasthan,2023,1,dungarpur district,3932392,6900946134.0
+rajasthan,2023,1,tonk district,16005039,24010143759.0
+rajasthan,2023,1,jodhpur district,55799596,103638420860.0
+rajasthan,2023,1,karauli district,11513504,18244056586.0
+rajasthan,2023,1,udaipur district,28562794,42357660825.0
+rajasthan,2023,1,dausa district,22741458,33514469427.0
+rajasthan,2023,1,nagaur district,29670841,64697662210.0
+rajasthan,2023,1,bharatpur district,18416483,30814946734.0
+rajasthan,2023,1,barmer district,27662361,55275431518.0
+rajasthan,2023,1,ajmer district,40711142,75097900480.0
+rajasthan,2023,1,chittorgarh district,16681437,29276597209.0
+rajasthan,2023,1,hanumangarh district,15106483,30282012384.0
+rajasthan,2023,1,pratapgarh district,4341209,7286096805.0
+rajasthan,2023,1,sawai madhopur district,15034531,21583710029.0
+rajasthan,2023,1,jalore district,11125511,25661512035.0
+rajasthan,2023,1,bikaner district,27198314,49018889766.0
+rajasthan,2023,1,sikar district,37352772,73473038385.0
+rajasthan,2023,1,dholpur district,7493014,13667472300.0
+rajasthan,2023,1,sirohi district,7693002,13095239851.0
+rajasthan,2023,1,rajsamand district,9619287,17003458719.0
+rajasthan,2023,1,jaisalmer district,10869848,18251500453.0
+rajasthan,2023,1,bundi district,10235348,14857578015.0
+rajasthan,2023,1,jhalawar district,11822348,18648043828.0
+rajasthan,2023,1,alwar district,59810068,90609216574.0
+rajasthan,2023,1,kota district,37756795,49533748966.0
+rajasthan,2023,1,jhunjhunu district,23038507,45869342225.0
+rajasthan,2023,2,pali district,19701272,34017141062.0
+rajasthan,2023,2,ganganagar district,26749049,45965288621.0
+rajasthan,2023,2,churu district,19951848,38113001350.0
+rajasthan,2023,2,jaipur district,291245541,414094307123.0
+rajasthan,2023,2,baran district,8989649,14544076456.0
+rajasthan,2023,2,bhilwara district,46805864,76181416686.0
+rajasthan,2023,2,banswara district,6879066,11075476953.0
+rajasthan,2023,2,dungarpur district,4665431,7578105236.0
+rajasthan,2023,2,tonk district,17948259,26680900425.0
+rajasthan,2023,2,jodhpur district,63628518,111202183454.0
+rajasthan,2023,2,karauli district,13940159,20469546864.0
+rajasthan,2023,2,udaipur district,32859859,46209374120.0
+rajasthan,2023,2,dausa district,26533735,37535725279.0
+rajasthan,2023,2,nagaur district,34917594,69594287612.0
+rajasthan,2023,2,bharatpur district,22780373,34710648020.0
+rajasthan,2023,2,barmer district,31092713,56589731827.0
+rajasthan,2023,2,ajmer district,47633939,82448878689.0
+rajasthan,2023,2,chittorgarh district,20124029,32681384338.0
+rajasthan,2023,2,hanumangarh district,17538872,33002681443.0
+rajasthan,2023,2,pratapgarh district,5131204,8339462758.0
+rajasthan,2023,2,sawai madhopur district,16982983,23618456413.0
+rajasthan,2023,2,jalore district,12609229,27736556138.0
+rajasthan,2023,2,bikaner district,31513648,53282144682.0
+rajasthan,2023,2,sikar district,43838459,80007069194.0
+rajasthan,2023,2,dholpur district,9007093,14977707390.0
+rajasthan,2023,2,sirohi district,8996677,14353134001.0
+rajasthan,2023,2,rajsamand district,11717579,18644211804.0
+rajasthan,2023,2,jaisalmer district,11787063,19078104653.0
+rajasthan,2023,2,bundi district,11766967,17007074554.0
+rajasthan,2023,2,jhalawar district,13306994,21098817601.0
+rajasthan,2023,2,alwar district,72379746,100096748505.0
+rajasthan,2023,2,kota district,42838853,57552911099.0
+rajasthan,2023,2,jhunjhunu district,27597073,49969031950.0
 sikkim,2018,1,south district,11355,16098282.748140384
 sikkim,2018,1,west district,4845,7468491.334182342
 sikkim,2018,1,east district,24432,35907388.054869555
@@ -10855,6 +11933,14 @@ sikkim,2022,4,south district,410951,731151545.284701
 sikkim,2022,4,west district,222875,569473212.1510196
 sikkim,2022,4,east district,2227237,4615052808.218626
 sikkim,2022,4,north district,197276,542707823.7654651
+sikkim,2023,1,south district,686864,1130114141.0
+sikkim,2023,1,west district,368967,853504549.0
+sikkim,2023,1,east district,2050840,4070142377.0
+sikkim,2023,1,north district,289457,708806955.0
+sikkim,2023,2,south district,866355,1313893353.0
+sikkim,2023,2,west district,468073,1009668241.0
+sikkim,2023,2,east district,2681672,5266694395.0
+sikkim,2023,2,north district,396867,990094447.0
 tamil-nadu,2018,1,tiruchirappalli district,149186,262528157.21513474
 tamil-nadu,2018,1,ramanathapuram district,24581,45696810.24106984
 tamil-nadu,2018,1,krishnagiri district,153618,253907426.24551624
@@ -11595,6 +12681,80 @@ tamil-nadu,2022,4,ranipet district,3737957,6482440332.589865
 tamil-nadu,2022,4,namakkal district,6710663,12192052206.513931
 tamil-nadu,2022,4,vellore district,6821759,11677039040.344677
 tamil-nadu,2022,4,thiruvarur district,1293487,2670800447.3045335
+tamil-nadu,2023,1,tiruchirappalli district,10559157,19312472102.0
+tamil-nadu,2023,1,ramanathapuram district,3161959,6563687794.0
+tamil-nadu,2023,1,krishnagiri district,27060721,42985634120.0
+tamil-nadu,2023,1,cuddalore district,8048998,13409796716.0
+tamil-nadu,2023,1,kancheepuram district,28434059,35659195700.0
+tamil-nadu,2023,1,tiruppur district,23102273,31612220617.0
+tamil-nadu,2023,1,dharmapuri district,11334419,21758757618.0
+tamil-nadu,2023,1,thoothukkudi district,5314189,9347641699.0
+tamil-nadu,2023,1,thanjavur district,6039246,11809807012.0
+tamil-nadu,2023,1,madurai district,12890979,24763626170.0
+tamil-nadu,2023,1,tiruvannamalai district,8350359,14864923318.0
+tamil-nadu,2023,1,salem district,19000542,35440342871.0
+tamil-nadu,2023,1,nagapattinam district,3351352,6212126931.0
+tamil-nadu,2023,1,tirupathur district,8008229,13214504318.0
+tamil-nadu,2023,1,ariyalur district,1989043,3657554169.0
+tamil-nadu,2023,1,chennai district,54082635,74022904169.0
+tamil-nadu,2023,1,the nilgiris district,3531701,5566369984.0
+tamil-nadu,2023,1,erode district,10413101,17503707079.0
+tamil-nadu,2023,1,karur district,3961099,7285246160.0
+tamil-nadu,2023,1,kallakkurichi district,5623808,10284275550.0
+tamil-nadu,2023,1,viluppuram district,6134683,9921812743.0
+tamil-nadu,2023,1,pudukkottai district,3606871,7297092570.0
+tamil-nadu,2023,1,perambalur district,1907989,3496777331.0
+tamil-nadu,2023,1,coimbatore district,39368101,51615824209.0
+tamil-nadu,2023,1,virudhunagar district,5424618,10110700191.0
+tamil-nadu,2023,1,dindigul district,8900167,16763205017.0
+tamil-nadu,2023,1,sivaganga district,3844323,7704708708.0
+tamil-nadu,2023,1,tenkasi district,3086579,6433449201.0
+tamil-nadu,2023,1,chengalpattu district,47785112,56466433731.0
+tamil-nadu,2023,1,kanniyakumari district,5769596,11195409956.0
+tamil-nadu,2023,1,tirunelveli district,5616592,9968103967.0
+tamil-nadu,2023,1,thiruvallur district,44534386,63977916519.0
+tamil-nadu,2023,1,theni district,4720868,9400279352.0
+tamil-nadu,2023,1,ranipet district,5956104,9898123646.0
+tamil-nadu,2023,1,namakkal district,7634185,14447202396.0
+tamil-nadu,2023,1,vellore district,10453261,17120886040.0
+tamil-nadu,2023,1,thiruvarur district,2211083,4490953844.0
+tamil-nadu,2023,2,tiruchirappalli district,11012446,20455452746.0
+tamil-nadu,2023,2,ramanathapuram district,3290555,6973064316.0
+tamil-nadu,2023,2,krishnagiri district,30480238,48954116395.0
+tamil-nadu,2023,2,cuddalore district,8354036,14112465473.0
+tamil-nadu,2023,2,kancheepuram district,30960455,38377770025.0
+tamil-nadu,2023,2,tiruppur district,25315335,34462188247.0
+tamil-nadu,2023,2,dharmapuri district,12289754,23737079024.0
+tamil-nadu,2023,2,thoothukkudi district,5717113,10292470339.0
+tamil-nadu,2023,2,thanjavur district,6416227,12463249803.0
+tamil-nadu,2023,2,madurai district,13702781,26681647309.0
+tamil-nadu,2023,2,tiruvannamalai district,9108567,16045360745.0
+tamil-nadu,2023,2,salem district,20677006,38483559669.0
+tamil-nadu,2023,2,nagapattinam district,3698379,6613294059.0
+tamil-nadu,2023,2,tirupathur district,8687983,14506799484.0
+tamil-nadu,2023,2,ariyalur district,2071096,3919208327.0
+tamil-nadu,2023,2,chennai district,58067196,79752773295.0
+tamil-nadu,2023,2,the nilgiris district,4539924,7445469665.0
+tamil-nadu,2023,2,erode district,11308928,18665388710.0
+tamil-nadu,2023,2,karur district,4190645,7781633847.0
+tamil-nadu,2023,2,kallakkurichi district,6125567,11043179815.0
+tamil-nadu,2023,2,viluppuram district,6461774,10411166144.0
+tamil-nadu,2023,2,pudukkottai district,3753548,7738272578.0
+tamil-nadu,2023,2,perambalur district,2004548,3643141277.0
+tamil-nadu,2023,2,coimbatore district,41794917,55641017773.0
+tamil-nadu,2023,2,virudhunagar district,5672006,10711314340.0
+tamil-nadu,2023,2,dindigul district,9690935,18790973063.0
+tamil-nadu,2023,2,sivaganga district,3981044,8228850727.0
+tamil-nadu,2023,2,tenkasi district,3311027,6929192057.0
+tamil-nadu,2023,2,chengalpattu district,51706890,61412309875.0
+tamil-nadu,2023,2,kanniyakumari district,6343632,12612790280.0
+tamil-nadu,2023,2,tirunelveli district,6188960,11154710120.0
+tamil-nadu,2023,2,thiruvallur district,48176846,68546759350.0
+tamil-nadu,2023,2,theni district,5149310,10278091794.0
+tamil-nadu,2023,2,ranipet district,6422899,10576859341.0
+tamil-nadu,2023,2,namakkal district,8133870,15437161656.0
+tamil-nadu,2023,2,vellore district,11283787,18879395197.0
+tamil-nadu,2023,2,thiruvarur district,2339414,4604374150.0
 telangana,2018,1,narayanpet district,38804,42264263.62486112
 telangana,2018,1,nalgonda district,204137,267825160.50370258
 telangana,2018,1,jangaon district,80758,81262680.16798872
@@ -12255,6 +13415,72 @@ telangana,2022,4,karimnagar district,19056918,39357490540.69413
 telangana,2022,4,mancherial district,12469076,23710042437.245804
 telangana,2022,4,siddipet district,14715170,30384216197.138824
 telangana,2022,4,khammam district,18924276,39626352507.58298
+telangana,2023,1,narayanpet district,5860176,12594283377.0
+telangana,2023,1,nalgonda district,36293901,71134878439.0
+telangana,2023,1,jangaon district,12351227,23145397276.0
+telangana,2023,1,bhadradri kothagudem district,22418842,43557678197.0
+telangana,2023,1,warangal rural district,12016227,22834798897.0
+telangana,2023,1,kumuram bheem asifabad district,5909863,10044534284.0
+telangana,2023,1,nizamabad district,29666757,63849185228.0
+telangana,2023,1,adilabad district,8551063,15398896200.0
+telangana,2023,1,rajanna sircilla district,10183528,21218010068.0
+telangana,2023,1,nagarkurnool district,16468215,33921691728.0
+telangana,2023,1,peddapalle district,19710259,35406206858.0
+telangana,2023,1,nirmal district,9787939,22071363346.0
+telangana,2023,1,mahabubabad district,11587757,22017320496.0
+telangana,2023,1,sangareddy district,64762361,104869739922.0
+telangana,2023,1,wanaparthy district,8804989,17989989453.0
+telangana,2023,1,vikarabad district,13708676,24552396986.0
+telangana,2023,1,jagtial district,15662651,35845164854.0
+telangana,2023,1,yadadri bhuvanagiri district,20689510,39018954621.0
+telangana,2023,1,medak district,12213260,21898099820.0
+telangana,2023,1,mahbubnagar district,20251207,36515013116.0
+telangana,2023,1,jaya shankar bhalupally district,7882159,15652293575.0
+telangana,2023,1,warangal urban district,47328651,87860641183.0
+telangana,2023,1,rangareddy district,329344012,487359310308.0
+telangana,2023,1,hyderabad district,286887382,415188829698.0
+telangana,2023,1,suryapet district,21355436,41818830882.0
+telangana,2023,1,jogulamba gadwal district,8673538,18345295705.0
+telangana,2023,1,kamareddy district,14043426,27636092025.0
+telangana,2023,1,mulugu district,4771054,10133379673.0
+telangana,2023,1,medchal malkajgiri district,256028955,382423152200.0
+telangana,2023,1,karimnagar district,30992192,60096322074.0
+telangana,2023,1,mancherial district,20046172,36907254929.0
+telangana,2023,1,siddipet district,24660934,48406373565.0
+telangana,2023,1,khammam district,31419139,62870355301.0
+telangana,2023,2,narayanpet district,6909971,14616919263.0
+telangana,2023,2,nalgonda district,41962395,82903124781.0
+telangana,2023,2,jangaon district,14146351,26609770148.0
+telangana,2023,2,bhadradri kothagudem district,25871023,47972823799.0
+telangana,2023,2,warangal rural district,13385181,24985013737.0
+telangana,2023,2,kumuram bheem asifabad district,6747324,10837144939.0
+telangana,2023,2,nizamabad district,34994548,75596623775.0
+telangana,2023,2,adilabad district,9925498,17662880437.0
+telangana,2023,2,rajanna sircilla district,11891159,23728163098.0
+telangana,2023,2,nagarkurnool district,18857244,37948055779.0
+telangana,2023,2,peddapalle district,22555741,38978138316.0
+telangana,2023,2,nirmal district,11368138,25381861539.0
+telangana,2023,2,mahabubabad district,13158453,24114183880.0
+telangana,2023,2,sangareddy district,75850320,121290909918.0
+telangana,2023,2,wanaparthy district,10142299,20018297096.0
+telangana,2023,2,vikarabad district,16157969,27883452832.0
+telangana,2023,2,jagtial district,18288029,40893708527.0
+telangana,2023,2,yadadri bhuvanagiri district,24175923,45257907308.0
+telangana,2023,2,medak district,14637759,25974323819.0
+telangana,2023,2,mahbubnagar district,23297956,41417881674.0
+telangana,2023,2,jaya shankar bhalupally district,8720801,16438739776.0
+telangana,2023,2,warangal urban district,53361513,97631245668.0
+telangana,2023,2,rangareddy district,384456496,561147925919.0
+telangana,2023,2,hyderabad district,328016262,467328236325.0
+telangana,2023,2,suryapet district,24674139,49246226924.0
+telangana,2023,2,jogulamba gadwal district,10142849,21014963335.0
+telangana,2023,2,kamareddy district,16638930,32848062463.0
+telangana,2023,2,mulugu district,5285601,10702236197.0
+telangana,2023,2,medchal malkajgiri district,296231089,434043629718.0
+telangana,2023,2,karimnagar district,35552008,67773079796.0
+telangana,2023,2,mancherial district,22723969,39856360752.0
+telangana,2023,2,siddipet district,28696623,54855659978.0
+telangana,2023,2,khammam district,36607410,71192383492.0
 tripura,2018,1,unakoti district,5068,4349605.99414449
 tripura,2018,1,khowai district,8838,7242490.357963288
 tripura,2018,1,sepahijala district,14107,13224752.635975957
@@ -12415,6 +13641,22 @@ tripura,2022,4,dhalai district,289984,592125895.8754389
 tripura,2022,4,south tripura district,318517,743429832.5489745
 tripura,2022,4,gomati district,303790,606245959.1360532
 tripura,2022,4,west tripura district,3006900,5757593406.558215
+tripura,2023,1,unakoti district,402005,792057910.0
+tripura,2023,1,khowai district,338828,713428034.0
+tripura,2023,1,sepahijala district,638722,1338075480.0
+tripura,2023,1,north tripura district,871256,1687332816.0
+tripura,2023,1,dhalai district,562193,1126256596.0
+tripura,2023,1,south tripura district,608810,1375920795.0
+tripura,2023,1,gomati district,562299,1128168622.0
+tripura,2023,1,west tripura district,3134574,5127042638.0
+tripura,2023,2,unakoti district,461521,831227345.0
+tripura,2023,2,khowai district,352685,676909626.0
+tripura,2023,2,sepahijala district,701484,1434920521.0
+tripura,2023,2,north tripura district,999059,1775463127.0
+tripura,2023,2,dhalai district,619543,1115111944.0
+tripura,2023,2,south tripura district,670283,1363923736.0
+tripura,2023,2,gomati district,620180,1121816314.0
+tripura,2023,2,west tripura district,3504788,5599757469.0
 uttar-pradesh,2018,1,amethi district,96408,86534576.5671038
 uttar-pradesh,2018,1,siddharthnagar district,76809,95934878.04041217
 uttar-pradesh,2018,1,auraiya district,65304,61921892.865950845
@@ -13915,6 +15157,156 @@ uttar-pradesh,2022,4,azamgarh district,10311457,19173829433.415684
 uttar-pradesh,2022,4,ayodhya district,5827957,11075689616.292486
 uttar-pradesh,2022,4,deoria district,7891884,14320673159.489529
 uttar-pradesh,2022,4,ghaziabad district,48195051,73333545352.23656
+uttar-pradesh,2023,1,amethi district,5961498,11343790511.0
+uttar-pradesh,2023,1,siddharthnagar district,7752834,16316077462.0
+uttar-pradesh,2023,1,auraiya district,4984284,8923706058.0
+uttar-pradesh,2023,1,sambhal district,7158441,14916420762.0
+uttar-pradesh,2023,1,kanpur nagar district,28577522,47822572131.0
+uttar-pradesh,2023,1,aligarh district,21244175,34962351202.0
+uttar-pradesh,2023,1,mahoba district,3118365,5209877748.0
+uttar-pradesh,2023,1,lucknow district,65525552,87840979618.0
+uttar-pradesh,2023,1,sant kabeer nagar district,4838926,10245272882.0
+uttar-pradesh,2023,1,hathras district,6558864,11567764058.0
+uttar-pradesh,2023,1,budaun district,7286602,13516992144.0
+uttar-pradesh,2023,1,moradabad district,15233399,30387362849.0
+uttar-pradesh,2023,1,kushinagar district,15096918,28670939423.0
+uttar-pradesh,2023,1,baghpat district,7914960,13265456447.0
+uttar-pradesh,2023,1,shahjahanpur district,6433538,12391540415.0
+uttar-pradesh,2023,1,muzaffarnagar district,15311397,26612542553.0
+uttar-pradesh,2023,1,ambedkar nagar district,6851200,12783312352.0
+uttar-pradesh,2023,1,bahraich district,5970955,11814495968.0
+uttar-pradesh,2023,1,jalaun district,6537936,11933842616.0
+uttar-pradesh,2023,1,rampur district,7934592,16285039729.0
+uttar-pradesh,2023,1,ballia district,12616857,22646779756.0
+uttar-pradesh,2023,1,shravasti district,1383857,2696317287.0
+uttar-pradesh,2023,1,kasganj district,4005527,7186060231.0
+uttar-pradesh,2023,1,varanasi district,27637995,45388936309.0
+uttar-pradesh,2023,1,gautam buddha nagar district,130607154,135979906082.0
+uttar-pradesh,2023,1,basti district,8664930,17847024048.0
+uttar-pradesh,2023,1,shamli district,7177159,12148896739.0
+uttar-pradesh,2023,1,maharajganj district,7636380,15313343482.0
+uttar-pradesh,2023,1,etawah district,7430069,12873525303.0
+uttar-pradesh,2023,1,etah district,6208231,10756828948.0
+uttar-pradesh,2023,1,banda district,3443145,6359652496.0
+uttar-pradesh,2023,1,bijnor district,11960010,22807885387.0
+uttar-pradesh,2023,1,hardoi district,6421343,12500189718.0
+uttar-pradesh,2023,1,balrampur district,4166268,8577884331.0
+uttar-pradesh,2023,1,amroha district,9090711,17541720701.0
+uttar-pradesh,2023,1,pilibhit district,4812320,9049813654.0
+uttar-pradesh,2023,1,mainpuri district,7361027,12931357517.0
+uttar-pradesh,2023,1,kanpur dehat district,5012235,9922108975.0
+uttar-pradesh,2023,1,jaunpur district,14343164,25971299175.0
+uttar-pradesh,2023,1,kaushambi district,2787802,5755470923.0
+uttar-pradesh,2023,1,hapur district,10585117,16612157281.0
+uttar-pradesh,2023,1,hamirpur district,3276584,5996022154.0
+uttar-pradesh,2023,1,meerut district,25600912,44514485441.0
+uttar-pradesh,2023,1,mathura district,22349552,35663288960.0
+uttar-pradesh,2023,1,chitrakoot district,2255473,4650580538.0
+uttar-pradesh,2023,1,lalitpur district,5472705,7822838386.0
+uttar-pradesh,2023,1,mau district,7370574,12560931984.0
+uttar-pradesh,2023,1,mirzapur district,6972475,13777718359.0
+uttar-pradesh,2023,1,bulandshahr district,19039754,30404462514.0
+uttar-pradesh,2023,1,gonda district,8382178,17414864253.0
+uttar-pradesh,2023,1,jhansi district,15316806,26828965660.0
+uttar-pradesh,2023,1,chandauli district,7205125,13814185157.0
+uttar-pradesh,2023,1,bhadohi district,4201417,6970878997.0
+uttar-pradesh,2023,1,pratapgarh district,8675145,15812489869.0
+uttar-pradesh,2023,1,saharanpur district,20759554,36646785826.0
+uttar-pradesh,2023,1,bara banki district,7642536,13133827247.0
+uttar-pradesh,2023,1,bareilly district,19380259,35888691460.0
+uttar-pradesh,2023,1,sitapur district,6562289,12062192982.0
+uttar-pradesh,2023,1,sultanpur district,7173044,13066867474.0
+uttar-pradesh,2023,1,agra district,30391351,52433820121.0
+uttar-pradesh,2023,1,fatehpur district,4720461,9408587373.0
+uttar-pradesh,2023,1,rae bareli district,5874136,10808328170.0
+uttar-pradesh,2023,1,firozabad district,10785539,19087904212.0
+uttar-pradesh,2023,1,kheri district,7427060,12827142787.0
+uttar-pradesh,2023,1,gorakhpur district,22422173,41547143859.0
+uttar-pradesh,2023,1,unnao district,5685592,10919545680.0
+uttar-pradesh,2023,1,prayagraj district,35080059,49998377066.0
+uttar-pradesh,2023,1,sonbhadra district,9247084,15812948826.0
+uttar-pradesh,2023,1,ghazipur district,12794626,23414010895.0
+uttar-pradesh,2023,1,farrukhabad district,6465058,10868289280.0
+uttar-pradesh,2023,1,kannauj district,5501989,9239538762.0
+uttar-pradesh,2023,1,azamgarh district,14685133,26641884888.0
+uttar-pradesh,2023,1,ayodhya district,9751943,17947276402.0
+uttar-pradesh,2023,1,deoria district,13509460,23235721984.0
+uttar-pradesh,2023,1,ghaziabad district,66936417,98038172535.0
+uttar-pradesh,2023,2,amethi district,7435760,12826816498.0
+uttar-pradesh,2023,2,siddharthnagar district,10401429,20769557669.0
+uttar-pradesh,2023,2,auraiya district,6051986,9963269893.0
+uttar-pradesh,2023,2,sambhal district,8572592,15948872847.0
+uttar-pradesh,2023,2,kanpur nagar district,33104317,52168272566.0
+uttar-pradesh,2023,2,aligarh district,25463709,38972342149.0
+uttar-pradesh,2023,2,mahoba district,3927869,6128049892.0
+uttar-pradesh,2023,2,lucknow district,75332865,96742551859.0
+uttar-pradesh,2023,2,sant kabeer nagar district,6394228,12461224425.0
+uttar-pradesh,2023,2,hathras district,7894988,12687217716.0
+uttar-pradesh,2023,2,budaun district,8691555,15113486593.0
+uttar-pradesh,2023,2,moradabad district,18668550,32713760318.0
+uttar-pradesh,2023,2,kushinagar district,18918372,33522874126.0
+uttar-pradesh,2023,2,baghpat district,9453650,14263840923.0
+uttar-pradesh,2023,2,shahjahanpur district,7579569,13637851228.0
+uttar-pradesh,2023,2,muzaffarnagar district,18555273,29265040709.0
+uttar-pradesh,2023,2,ambedkar nagar district,8461522,14340886915.0
+uttar-pradesh,2023,2,bahraich district,7146721,13292602002.0
+uttar-pradesh,2023,2,jalaun district,8154743,13970779719.0
+uttar-pradesh,2023,2,rampur district,9904470,18063527486.0
+uttar-pradesh,2023,2,ballia district,15575269,26239312075.0
+uttar-pradesh,2023,2,shravasti district,1647097,3062025436.0
+uttar-pradesh,2023,2,kasganj district,4976741,8147954465.0
+uttar-pradesh,2023,2,varanasi district,32929066,51653036301.0
+uttar-pradesh,2023,2,gautam buddha nagar district,157681545,150948217823.0
+uttar-pradesh,2023,2,basti district,11149140,21058554490.0
+uttar-pradesh,2023,2,shamli district,8662459,13554235262.0
+uttar-pradesh,2023,2,maharajganj district,9712982,17619945215.0
+uttar-pradesh,2023,2,etawah district,8731680,13909403405.0
+uttar-pradesh,2023,2,etah district,7390577,11581042360.0
+uttar-pradesh,2023,2,banda district,4252345,7586285145.0
+uttar-pradesh,2023,2,bijnor district,14646315,25254129609.0
+uttar-pradesh,2023,2,hardoi district,7774133,13972422475.0
+uttar-pradesh,2023,2,balrampur district,5583633,10663240209.0
+uttar-pradesh,2023,2,amroha district,11164432,19222004163.0
+uttar-pradesh,2023,2,pilibhit district,5695025,9663111550.0
+uttar-pradesh,2023,2,mainpuri district,8959589,13857701893.0
+uttar-pradesh,2023,2,kanpur dehat district,6113430,10963762111.0
+uttar-pradesh,2023,2,jaunpur district,18693715,32568692540.0
+uttar-pradesh,2023,2,kaushambi district,3352828,6445881904.0
+uttar-pradesh,2023,2,hapur district,12629748,18230077976.0
+uttar-pradesh,2023,2,hamirpur district,4225264,7288530293.0
+uttar-pradesh,2023,2,meerut district,30318321,48422446534.0
+uttar-pradesh,2023,2,mathura district,27350787,40577938266.0
+uttar-pradesh,2023,2,chitrakoot district,2746335,5205567631.0
+uttar-pradesh,2023,2,lalitpur district,6148725,8963882100.0
+uttar-pradesh,2023,2,mau district,9476259,15173658857.0
+uttar-pradesh,2023,2,mirzapur district,8321491,15284693867.0
+uttar-pradesh,2023,2,bulandshahr district,22808130,33193569663.0
+uttar-pradesh,2023,2,gonda district,10344167,19916293579.0
+uttar-pradesh,2023,2,jhansi district,17879788,30191331143.0
+uttar-pradesh,2023,2,chandauli district,8811577,15704965541.0
+uttar-pradesh,2023,2,bhadohi district,5392116,8487381163.0
+uttar-pradesh,2023,2,pratapgarh district,11129842,18787033594.0
+uttar-pradesh,2023,2,saharanpur district,24432197,39798953640.0
+uttar-pradesh,2023,2,bara banki district,9190723,14437701723.0
+uttar-pradesh,2023,2,bareilly district,23101650,38831901761.0
+uttar-pradesh,2023,2,sitapur district,7735557,13173196424.0
+uttar-pradesh,2023,2,sultanpur district,8940483,14911350509.0
+uttar-pradesh,2023,2,agra district,36064514,57518188065.0
+uttar-pradesh,2023,2,fatehpur district,5645493,10468378567.0
+uttar-pradesh,2023,2,rae bareli district,7100125,11873833557.0
+uttar-pradesh,2023,2,firozabad district,12711048,20477051175.0
+uttar-pradesh,2023,2,kheri district,8765604,13916550662.0
+uttar-pradesh,2023,2,gorakhpur district,28202448,48397427638.0
+uttar-pradesh,2023,2,unnao district,7011801,12499964402.0
+uttar-pradesh,2023,2,prayagraj district,41130090,55619365184.0
+uttar-pradesh,2023,2,sonbhadra district,10986654,17530119599.0
+uttar-pradesh,2023,2,ghazipur district,16183257,27636261422.0
+uttar-pradesh,2023,2,farrukhabad district,7662018,11730347441.0
+uttar-pradesh,2023,2,kannauj district,6662317,9963833385.0
+uttar-pradesh,2023,2,azamgarh district,19068174,32903540424.0
+uttar-pradesh,2023,2,ayodhya district,11764115,19559796919.0
+uttar-pradesh,2023,2,deoria district,17389365,28160223820.0
+uttar-pradesh,2023,2,ghaziabad district,79274230,106962936038.0
 uttarakhand,2018,1,bageshwar district,10580,8645020.086163377
 uttarakhand,2018,1,udham singh nagar district,319290,273540317.8466592
 uttarakhand,2018,1,haridwar district,308588,394604404.70860887
@@ -14175,6 +15567,32 @@ uttarakhand,2022,4,pithoragarh district,920523,1481932435.116687
 uttarakhand,2022,4,rudraprayag district,492035,951611612.2036073
 uttarakhand,2022,4,pauri garhwal district,1993213,2930488128.435723
 uttarakhand,2022,4,tehri garhwal district,1406965,2066653765.1403933
+uttarakhand,2023,1,bageshwar district,548380,789534270.0
+uttarakhand,2023,1,udham singh nagar district,13978521,20542684972.0
+uttarakhand,2023,1,haridwar district,18798046,26500543614.0
+uttarakhand,2023,1,champawat district,779378,1226950637.0
+uttarakhand,2023,1,nainital district,6645871,9531910281.0
+uttarakhand,2023,1,dehradun district,28447368,33916386161.0
+uttarakhand,2023,1,chamoli district,1029945,1609382133.0
+uttarakhand,2023,1,almora district,1388916,2028760785.0
+uttarakhand,2023,1,uttarkashi district,839385,1329618478.0
+uttarakhand,2023,1,pithoragarh district,1284719,1892055904.0
+uttarakhand,2023,1,rudraprayag district,647909,1003356899.0
+uttarakhand,2023,1,pauri garhwal district,2750629,3734478564.0
+uttarakhand,2023,1,tehri garhwal district,2246608,3074244887.0
+uttarakhand,2023,2,bageshwar district,726950,985959187.0
+uttarakhand,2023,2,udham singh nagar district,16932356,22588115268.0
+uttarakhand,2023,2,haridwar district,24260673,32327305602.0
+uttarakhand,2023,2,champawat district,1047124,1524868083.0
+uttarakhand,2023,2,nainital district,8645252,11941153554.0
+uttarakhand,2023,2,dehradun district,34692859,40261073972.0
+uttarakhand,2023,2,chamoli district,1825969,2983545303.0
+uttarakhand,2023,2,almora district,2020325,2786364746.0
+uttarakhand,2023,2,uttarkashi district,1342970,2344893299.0
+uttarakhand,2023,2,pithoragarh district,1742817,2468595556.0
+uttarakhand,2023,2,rudraprayag district,1800936,3485553463.0
+uttarakhand,2023,2,pauri garhwal district,4018333,5335354696.0
+uttarakhand,2023,2,tehri garhwal district,3701650,5040089669.0
 west-bengal,2018,1,south twenty four parganas district,421793,349206351.134772
 west-bengal,2018,1,purba bardhaman district,396998,212356023.7378838
 west-bengal,2018,1,uttar dinajpur district,242526,126658409.55475825
@@ -14635,3 +16053,49 @@ west-bengal,2022,4,birbhum district,7617444,16146502753.00366
 west-bengal,2022,4,purba medinipur district,14484229,33099490372.24874
 west-bengal,2022,4,maldah district,12492746,27218606574.653137
 west-bengal,2022,4,darjiling district,8827502,18016497295.004322
+west-bengal,2023,1,south twenty four parganas district,28211385,61475192574.0
+west-bengal,2023,1,purba bardhaman district,16305703,34063468086.0
+west-bengal,2023,1,uttar dinajpur district,12176811,27228713682.0
+west-bengal,2023,1,kalimpong district,658897,1296219170.0
+west-bengal,2023,1,murshidabad district,29388371,73086314736.0
+west-bengal,2023,1,paschim medinipur district,22338770,43484869208.0
+west-bengal,2023,1,dakshin dinajpur district,4318328,9661360871.0
+west-bengal,2023,1,jalpaiguri district,6897644,13230991164.0
+west-bengal,2023,1,purulia district,9531841,12889527264.0
+west-bengal,2023,1,north twenty four parganas district,82336235,134391026103.0
+west-bengal,2023,1,bankura district,10304938,18960624285.0
+west-bengal,2023,1,jhargram district,2708976,4837682507.0
+west-bengal,2023,1,howrah district,23083776,47827266728.0
+west-bengal,2023,1,hooghly district,23858120,46906829867.0
+west-bengal,2023,1,kolkata district,58702328,107217313481.0
+west-bengal,2023,1,koch bihar district,10456686,18946353910.0
+west-bengal,2023,1,alipurduar district,5009411,9812275385.0
+west-bengal,2023,1,paschim bardhaman district,22192434,34627175276.0
+west-bengal,2023,1,nadia district,22167436,48250853413.0
+west-bengal,2023,1,birbhum district,12478091,26060991086.0
+west-bengal,2023,1,purba medinipur district,25649966,58534578130.0
+west-bengal,2023,1,maldah district,20097255,44370339733.0
+west-bengal,2023,1,darjiling district,10404942,19723215896.0
+west-bengal,2023,2,south twenty four parganas district,33239786,68370869540.0
+west-bengal,2023,2,purba bardhaman district,19202083,38238042557.0
+west-bengal,2023,2,uttar dinajpur district,15152358,30998034157.0
+west-bengal,2023,2,kalimpong district,830355,1598525835.0
+west-bengal,2023,2,murshidabad district,35310718,82718719673.0
+west-bengal,2023,2,paschim medinipur district,26646934,49071906041.0
+west-bengal,2023,2,dakshin dinajpur district,5242715,10743780287.0
+west-bengal,2023,2,jalpaiguri district,8628928,15244621609.0
+west-bengal,2023,2,purulia district,11504072,14258121172.0
+west-bengal,2023,2,north twenty four parganas district,96628528,151571700376.0
+west-bengal,2023,2,bankura district,12236326,21054538356.0
+west-bengal,2023,2,jhargram district,3162650,5182564318.0
+west-bengal,2023,2,howrah district,27156689,53521241869.0
+west-bengal,2023,2,hooghly district,27753013,52098664362.0
+west-bengal,2023,2,kolkata district,67649153,116559452847.0
+west-bengal,2023,2,koch bihar district,13234951,22602389896.0
+west-bengal,2023,2,alipurduar district,6075500,11210432870.0
+west-bengal,2023,2,paschim bardhaman district,26104521,38880657302.0
+west-bengal,2023,2,nadia district,26194658,54103857184.0
+west-bengal,2023,2,birbhum district,14912523,29413124481.0
+west-bengal,2023,2,purba medinipur district,30724502,65958992755.0
+west-bengal,2023,2,maldah district,24677357,52186214308.0
+west-bengal,2023,2,darjiling district,13049366,23728655177.0

@@ -11,23 +11,23 @@ from git.repo.base import Repo
 
 # Setting up page configuration
 icon = Image.open("ICN.png")
-st.set_page_config(page_title= "Phonepe Pulse Data Visualization | By Jafar Hussain",
+st.set_page_config(page_title= "Phonepe Pulse Data Visualization | By jeevagan ps",
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
-                   menu_items={'About': """# This dashboard app is created by *Jafar Hussain*!
+                   menu_items={'About': """# This dashboard app is created by *jeevagan ps*!
                                         Data has been cloned from Phonepe Pulse Github Repo"""})
 
 st.sidebar.header(":wave: :violet[**Hello! Welcome to the dashboard**]")
 
 # #To clone the Github Pulse repository use the following code
 # Reference Syntax - Repo.clone_from("Clone Url", "Your working directory")
-# Repo.clone_from("https://github.com/PhonePe/pulse.git", "Project_3_PhonepePulse/Phonepe_data/data")
+# Repo.clone_from("https://github.com/PhonePe/pulse.git", "Project_2_PhonepePulse/Phonepe_data/data")
 
 # Creating connection with mysql workbench
 mydb = sql.connect(host="localhost",
                    user="root",
-                   password="Jafar@1996",
+                   password="root",
                    database= "phonepe_pulse"
                   )
 mycursor = mydb.cursor(buffered=True)
@@ -39,7 +39,7 @@ with st.sidebar:
                 icons=["house","graph-up-arrow","bar-chart-line", "exclamation-circle"],
                 menu_icon= "menu-button-wide",
                 default_index=0,
-                styles={"nav-link": {"font-size": "20px", "text-align": "left", "margin": "-2px", "--hover-color": "#6F36AD"},
+                styles={"nav-link": {"font-size": "16px", "text-align": "left", "margin": "-2px", "--hover-color": "#6F36AD"},
                         "nav-link-selected": {"background-color": "#6F36AD"}})
 # MENU 1 - HOME
 if selected == "Home":
@@ -332,10 +332,7 @@ if selected == "About":
         st.markdown("### :violet[About PhonePe:] ")
         st.write("##### PhonePe is India's leading fintech platform with over 300 million registered users. Using PhonePe, users can send and receive money, recharge mobile, DTH, pay at stores, make utility payments, buy gold and make investments. PhonePe forayed into financial services in 2017 with the launch of Gold providing users with a safe and convenient option to buy 24-karat gold securely on its platform. PhonePe has since launched several Mutual Funds and Insurance products like tax-saving funds, liquid funds, international travel insurance and Corona Care, a dedicated insurance product for the COVID-19 pandemic among others. PhonePe also launched its Switch platform in 2018, and today its customers can place orders on over 600 apps directly from within the PhonePe mobile app. PhonePe is accepted at 20+ million merchant outlets across Bharat")
         
-        st.write("**:violet[My Project GitHub link]** ⬇️")
-        st.write("https://github.com/IamJafar/Phonepe_Pulse_Data_Visualization")
-        st.write("**:violet[Image and content source]** ⬇️")
-        st.write("https://www.prnewswire.com/in/news-releases/phonepe-launches-the-pulse-of-digital-payments-india-s-first-interactive-geospatial-website-888262738.html")
+        
         
     with col2:
         st.write(" ")
